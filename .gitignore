@@ -2,6 +2,7 @@ runner.log
 runner.xml
 composer.lock
 package-lock.json
+.remote-sync.json
 vendor/*
 package.json
 Gruntfile.js
