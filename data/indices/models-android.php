@@ -95,26 +95,35 @@ DeviceModels::$ANDROID_INDEX = array (
   ),
   '@15' => 
   array (
-    0 => '1501-A02',
-    1 => '1501 M02',
-    2 => '1501-M02',
-    3 => '1503-A01',
-    4 => '1503-M02',
-    5 => '1505-A01',
-    6 => '1505-A02',
+    0 => '15 Lite',
+    1 => '1501-A02',
+    2 => '1501 M02',
+    3 => '1501-M02',
+    4 => '1503-A01',
+    5 => '1503-M02',
+    6 => '1505-A01',
+    7 => '1505-A02',
+    8 => 15,
   ),
   '@16' => 
   array (
-    0 => '1605-A01',
-    1 => '1607-A01',
+    0 => '16 X',
+    1 => '16s',
+    2 => '16T',
+    3 => '16th',
+    4 => '1605-A01',
+    5 => '1607-A01',
   ),
   '@17' => 
   array (
-    0 => '1713-A01',
+    0 => '1707-A01',
+    1 => '1713-A01',
   ),
   '@18' => 
   array (
     0 => '1801-A01',
+    1 => '1809-A01',
+    2 => 1851,
   ),
   '@2 ' => 
   array (
@@ -126,10 +135,20 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(Xiaomi )?20!!',
     2 => '(Xiaomi |HM)?20!!',
   ),
+  '@24' => 
+  array (
+    0 => '(32|24)FR(50|55)WU!',
+  ),
+  '@2E' => 
+  array (
+    0 => '2E!!',
+    1 => '2E E450 2018',
+  ),
   '@2P' => 
   array (
     0 => '2PQ93',
     1 => '2PS64',
+    2 => '2PYB2',
   ),
   '@3' => 
   array (
@@ -138,6 +157,10 @@ DeviceModels::$ANDROID_INDEX = array (
   '@30' => 
   array (
     0 => 3007,
+  ),
+  '@32' => 
+  array (
+    0 => '(32|24)FR(50|55)WU!',
   ),
   '@36' => 
   array (
@@ -188,6 +211,14 @@ DeviceModels::$ANDROID_INDEX = array (
   '@48' => 
   array (
     0 => '(48|50|55)AX600C!',
+  ),
+  '@4C' => 
+  array (
+    0 => '4C Pro',
+  ),
+  '@4G' => 
+  array (
+    0 => '4Good S450m 4G',
   ),
   '@5' => 
   array (
@@ -252,6 +283,33 @@ DeviceModels::$ANDROID_INDEX = array (
     54 => '5080C Pro',
     55 => '50[0-9]SO!!',
     56 => '502ZT',
+    57 => '5030D',
+    58 => '5009D',
+    59 => '5085Q',
+    60 => '5009D RU',
+    61 => '5026D',
+    62 => '5007U RU',
+    63 => '5024F EEA',
+    64 => '5008D EEA',
+    65 => '5048Y',
+    66 => '5003D EEA',
+    67 => '5007U',
+    68 => '5053K EEA',
+    69 => '5028Y EEA',
+    70 => '5029D EEA',
+    71 => '5030D EEA',
+    72 => '5048Y EEA',
+    73 => '5006D',
+    74 => '5002H',
+    75 => '5002H RU',
+    76 => '5003D RU',
+    77 => '5008Y RU',
+    78 => '5002F RU',
+    79 => '5002D RU',
+    80 => '5048Y RU',
+    81 => '5028Y RU',
+    82 => '5001D RU',
+    83 => '5029Y RU',
   ),
   '@55' => 
   array (
@@ -315,6 +373,7 @@ DeviceModels::$ANDROID_INDEX = array (
     11 => '7055[AW]!',
     12 => '704DC',
     13 => '70[0-9]SO!!',
+    14 => '7070X',
   ),
   '@71' => 
   array (
@@ -344,6 +403,8 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => '801s',
     7 => '802w',
     8 => '800P31C',
+    9 => '8050D',
+    10 => 8079,
   ),
   '@81' => 
   array (
@@ -397,6 +458,9 @@ DeviceModels::$ANDROID_INDEX = array (
     13 => '909d',
     14 => 9088,
     15 => '9020[A]!',
+    16 => '9032X RU',
+    17 => '9026X',
+    18 => '906SH',
   ),
   '@93' => 
   array (
@@ -408,12 +472,18 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => '97FC',
   ),
+  '@9T' => 
+  array (
+    0 => '9T pro',
+  ),
   '@A0' => 
   array (
     0 => 'A001',
     1 => 'A0001',
     2 => 'A0002',
     3 => 'A05510',
+    4 => 'A007',
+    5 => 'A001D',
   ),
   '@A1' => 
   array (
@@ -450,12 +520,26 @@ DeviceModels::$ANDROID_INDEX = array (
     30 => 'A11(M5A7)',
     31 => 'A11s(M5A7)',
     32 => 'A15(E6C2)',
+    33 => 'A1 Alpha',
+    34 => 'A1 Alpha 20+',
+    35 => 'A140',
+    36 => 'A160',
+    37 => 'A15',
+    38 => 'A150',
+    39 => 'A10e',
+    40 => 'A101S',
+    41 => 'A1 PRO',
   ),
   '@A2' => 
   array (
     0 => 'A206G',
     1 => 'A2',
     2 => 'A21',
+    3 => 'A20',
+    4 => 'A20Pro',
+    5 => 'A240',
+    6 => 'A2 Lite NFC',
+    7 => 'A250',
   ),
   '@A3' => 
   array (
@@ -475,6 +559,16 @@ DeviceModels::$ANDROID_INDEX = array (
     13 => 'A37f',
     14 => 'A37fw',
     15 => 'A3',
+    16 => 'A3m',
+    17 => 'A30',
+    18 => 'A30-RU',
+    19 => 'A3 Lite',
+    20 => 'A340',
+    21 => 'A328',
+    22 => 'A350',
+    23 => 'A3S',
+    24 => 'A3 Pro',
+    25 => 'A3X',
   ),
   '@A4' => 
   array (
@@ -492,6 +586,9 @@ DeviceModels::$ANDROID_INDEX = array (
     11 => 'A45',
     12 => 'A47',
     13 => 'A4',
+    14 => 'A4 Pro',
+    15 => 'A4 Lite',
+    16 => 'A450',
   ),
   '@A5' => 
   array (
@@ -520,6 +617,18 @@ DeviceModels::$ANDROID_INDEX = array (
     22 => 'A51w',
     23 => 'A5000',
     24 => 'a5',
+    25 => 'A503 Joy',
+    26 => 'A511 Harmony',
+    27 => 'A512 Harmony Pro',
+    28 => 'A505 JOY Plus',
+    29 => 'A504 Trace',
+    30 => 'A503-Optima',
+    31 => 'A555 Universe',
+    32 => 'A503 Optima',
+    33 => 'A502 Aurum',
+    34 => 'A526',
+    35 => 'A50s',
+    36 => 'A5 Pro',
   ),
   '@A6' => 
   array (
@@ -532,6 +641,12 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'A6277',
     7 => 'A6020',
     8 => 'A6S',
+    9 => 'A60',
+    10 => 'A60Pro',
+    11 => 'A60Plus',
+    12 => 'A6 mini',
+    13 => 'A6 Max',
+    14 => 'A6',
   ),
   '@A7' => 
   array (
@@ -558,6 +673,12 @@ DeviceModels::$ANDROID_INDEX = array (
     20 => 'A7272+',
     21 => 'A70(CY6T)',
     22 => 'A78h四核(C1V3)',
+    23 => 'A7Pro',
+    24 => 'A7',
+    25 => 'A70',
+    26 => 'A7H',
+    27 => 'A7 Pro',
+    28 => 'A7S',
   ),
   '@A8' => 
   array (
@@ -581,6 +702,11 @@ DeviceModels::$ANDROID_INDEX = array (
     17 => 'A80HD四核(C4H6)',
     18 => 'A88 mini四核(M1C5)',
     19 => 'A81E',
+    20 => 'A8 MAX',
+    21 => 'A80Pro',
+    22 => 'A80',
+    23 => 'A8',
+    24 => 'A8S',
   ),
   '@A9' => 
   array (
@@ -591,6 +717,8 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'A90S',
     5 => 'A953',
     6 => 'A955',
+    7 => 'A95X-R1',
+    8 => 'A9 Pro',
   ),
   '@AA' => 
   array (
@@ -611,6 +739,10 @@ DeviceModels::$ANDROID_INDEX = array (
     10 => 'ACT2000',
     11 => 'ACU Volvo',
     12 => 'Acqua',
+    13 => 'AC2001',
+    14 => 'AC2003',
+    15 => 'ACE PRO',
+    16 => 'ACTOMA ACE',
   ),
   '@AD' => 
   array (
@@ -673,6 +805,7 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'Aero A2-110',
     1 => 'Aegis2',
+    2 => 'AEONSR570',
   ),
   '@AF' => 
   array (
@@ -692,6 +825,17 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'AG Chrome Go Tab 7.0',
     5 => 'AGS-(L09|W09)!',
     6 => '(KATBL|Kogan|Agora)!!',
+    7 => 'AGM A8',
+    8 => 'AGM X2',
+    9 => 'AGM X1',
+    10 => 'AGM A10',
+    11 => 'AGM X3',
+    12 => 'AGM A9 ru',
+    13 => 'AGS2-L09',
+    14 => 'AGS2-W09',
+    15 => 'AGS3-L09',
+    16 => 'AGR-W09',
+    17 => 'AGR-L09',
   ),
   '@AI' => 
   array (
@@ -724,6 +868,7 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'AKAI PHA-4800',
     5 => 'AKAIPHA 5800',
     6 => 'AKAI MIDMA-7002S',
+    7 => 'AKA-L29',
   ),
   '@AL' => 
   array (
@@ -770,6 +915,13 @@ DeviceModels::$ANDROID_INDEX = array (
     40 => 'Ally',
     41 => 'Altus 18',
     42 => 'Altus 24',
+    43 => 'AllCall S1 X',
+    44 => 'AllCall S1',
+    45 => 'AL350',
+    46 => 'AL240',
+    47 => 'AL250',
+    48 => 'Alfa 5',
+    49 => 'Alpha',
   ),
   '@AM' => 
   array (
@@ -802,6 +954,7 @@ DeviceModels::$ANDROID_INDEX = array (
     26 => '(Amaze|Hitech)!!',
     27 => 'Amaze 4G',
     28 => '(Amazing|Fantastic)!!',
+    29 => 'AMN-LX9',
   ),
   '@AN' => 
   array (
@@ -862,6 +1015,8 @@ DeviceModels::$ANDROID_INDEX = array (
     54 => 'Androtab 7',
     55 => '(Starway )?Andromeda!!',
     56 => '(Andy|Yezz)!!',
+    57 => 'ANRY-X20',
+    58 => 'ANA-NX9',
   ),
   '@AO' => 
   array (
@@ -881,6 +1036,7 @@ DeviceModels::$ANDROID_INDEX = array (
     13 => 'AOSON M1016',
     14 => '(cm|aokp) tenderloin!',
     15 => 'AO5510',
+    16 => 'aosp c106',
   ),
   '@AP' => 
   array (
@@ -893,6 +1049,7 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'apanda-A100',
     7 => 'apanda-A101',
     8 => 'Aprix D97+',
+    9 => 'AP-115G',
   ),
   '@AQ' => 
   array (
@@ -914,6 +1071,10 @@ DeviceModels::$ANDROID_INDEX = array (
     15 => 'AQUOS!!',
     16 => 'aqua',
     17 => 'AQT80',
+    18 => 'Aquaris V',
+    19 => 'Aquaris U2 Lite',
+    20 => 'AQM-LX1',
+    21 => 'AQM-AL00',
   ),
   '@AR' => 
   array (
@@ -949,6 +1110,37 @@ DeviceModels::$ANDROID_INDEX = array (
     29 => 'Arctic450',
     30 => 'Arc',
     31 => 'Arc S',
+    32 => 'Archos Core 101 4G',
+    33 => 'ARIAN Space 80 SS8003PG',
+    34 => 'ARK ukozi u6',
+    35 => 'Artel Tesla',
+    36 => 'Artel Tomchi',
+    37 => 'Artel Quadro',
+    38 => 'Artel Air',
+    39 => 'Artel Sentinel X D5',
+    40 => 'ARE-L22HN',
+    41 => 'ART-L29',
+    42 => 'ARE-AL00',
+    43 => 'ART-L29N',
+    44 => 'ARE-AL10',
+    45 => 'ART-AL00x',
+    46 => 'Armor',
+    47 => 'Armor X3',
+    48 => 'Armor 3',
+    49 => 'Armor X5',
+    50 => 'Armor 6',
+    51 => 'Armor 6E',
+    52 => 'Armor X',
+    53 => 'Armor 2',
+    54 => 'Armor 7',
+    55 => 'Armor 6S',
+    56 => 'Armor 9',
+    57 => 'Armor X7 Pro',
+    58 => 'Armor X7',
+    59 => 'Armor 7E',
+    60 => 'Armor X6',
+    61 => 'Armor X5 Pro',
+    62 => 'Armor X2',
   ),
   '@AS' => 
   array (
@@ -976,6 +1168,18 @@ DeviceModels::$ANDROID_INDEX = array (
     21 => 'AS650C',
     22 => 'Aster',
     23 => 'Aster T',
+    24 => 'AS-502',
+    25 => 'AS-5412',
+    26 => 'AS-4421',
+    27 => 'Asus ZenFone',
+    28 => 'AS-503',
+    29 => 'AS 401L',
+    30 => 'AS 501',
+    31 => 'AS-5433 max Secret',
+    32 => 'AS155',
+    33 => 'AS260',
+    34 => 'AS160',
+    35 => 'ASK-AL00x',
   ),
   '@AT' => 
   array (
@@ -1033,6 +1237,7 @@ DeviceModels::$ANDROID_INDEX = array (
     51 => 'AT830',
     52 => 'AT-A[QS][0-9]{2,2}!!',
     53 => 'ATLAS W',
+    54 => 'Atlantic4G',
   ),
   '@AU' => 
   array (
@@ -1040,11 +1245,19 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'AUX!!',
     2 => '(Aura|iberry|AUXUS)!!',
     3 => 'AURUS III',
+    4 => 'AUM-L41',
+    5 => 'AUM-L29',
+    6 => 'AUM-AL20',
+    7 => 'AUM-AL00',
   ),
   '@AV' => 
   array (
     0 => 'Avea!!',
     1 => '(Ilium )?Avvio!!',
+  ),
+  '@AW' => 
+  array (
+    0 => 'AWM-A0',
   ),
   '@AX' => 
   array (
@@ -1066,6 +1279,15 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => 'B1-[A0-9][A0-9]{2,2}!!',
     1 => 'B15',
     2 => 'B15Q',
+    3 => 'B1-733',
+    4 => 'B11',
+    5 => 'B140',
+  ),
+  '@B2' => 
+  array (
+    0 => 'B260',
+    1 => 'B255',
+    2 => 'B245',
   ),
   '@B3' => 
   array (
@@ -1077,6 +1299,28 @@ DeviceModels::$ANDROID_INDEX = array (
     5 => 'B3-A40',
     6 => 'B3-A40FHD',
     7 => 'B3000',
+    8 => 'B340',
+    9 => 'B3-A42',
+    10 => 'B3-A50FHD',
+    11 => 'B355',
+    12 => 'B350',
+    13 => 'B38',
+  ),
+  '@B4' => 
+  array (
+    0 => 'B450',
+  ),
+  '@B5' => 
+  array (
+    0 => 'B506 Intro',
+    1 => 'B504 Unit',
+    2 => 'B502 Basic',
+    3 => 'B505 Unit 4G',
+    4 => 'B501',
+  ),
+  '@B8' => 
+  array (
+    0 => 'B861RE',
   ),
   '@B9' => 
   array (
@@ -1099,6 +1343,8 @@ DeviceModels::$ANDROID_INDEX = array (
     12 => 'Bambook S1',
     13 => 'BARRY',
     14 => 'BASE!!',
+    15 => 'BAH3-W09',
+    16 => 'BAH3-L09',
   ),
   '@BB' => 
   array (
@@ -1116,6 +1362,7 @@ DeviceModels::$ANDROID_INDEX = array (
     11 => 'BBF100-[0-9]!',
     12 => '(BBG-|VIV-)?vivo!!',
     13 => 'Bbox Miami',
+    14 => 'BB2',
   ),
   '@BC' => 
   array (
@@ -1138,6 +1385,9 @@ DeviceModels::$ANDROID_INDEX = array (
   '@BD' => 
   array (
     0 => '(BDS|BHX|BKO)\\-!!',
+    1 => 'BDF K107H',
+    2 => 'BDF-M107',
+    3 => 'BDF-X20',
   ),
   '@BE' => 
   array (
@@ -1160,6 +1410,19 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => 'beetle',
     17 => 'Be Touch 2',
     18 => 'Beeline!!',
+    19 => 'Benefit M505',
+    20 => 'Benefit S503 Max',
+    21 => 'Benefit M5 Plus',
+    22 => 'Benefit S502 Plus',
+    23 => 'Benefit S505',
+    24 => 'Benefit M503',
+    25 => 'Benefit M9',
+    26 => 'Beeline Pro 6',
+    27 => 'Benefit Note 1',
+    28 => 'BE2029',
+    29 => 'BE2013',
+    30 => 'Bee',
+    31 => 'BEZKAM BK-RAM2',
   ),
   '@BF' => 
   array (
@@ -1176,6 +1439,7 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'bg2qv4 !',
     5 => 'BGO-(DL09|L03)!',
     6 => 'BG2-(U01)!',
+    7 => 'BG2-W09',
   ),
   '@BH' => 
   array (
@@ -1189,11 +1453,14 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'BizSmartPhone',
     4 => 'BIP-6000',
     5 => 'BIRDY',
+    6 => 'Bison2021',
+    7 => 'BISON',
   ),
   '@BK' => 
   array (
     0 => '(BDS|BHX|BKO)\\-!!',
     1 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
+    2 => 'BKK-TL00',
   ),
   '@BL' => 
   array (
@@ -1214,6 +1481,18 @@ DeviceModels::$ANDROID_INDEX = array (
     14 => 'BLOOM',
     15 => 'BLACK',
     16 => '(ZTE )?Blade!!',
+    17 => 'Bluboo Maya Max',
+    18 => 'Blaupunkt SM 01',
+    19 => 'BL350',
+    20 => 'BL155',
+    21 => 'BL250',
+    22 => 'BL150',
+    23 => 'BL160',
+    24 => 'BL5500 Lite',
+    25 => 'BL7000',
+    26 => 'BL5000',
+    27 => 'BL9000',
+    28 => 'BL12000',
   ),
   '@BM' => 
   array (
@@ -1221,6 +1500,19 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(Bmobile )?AX[0-9]{3,4}!!',
     2 => 'Bmobile T35AC',
     3 => 'BM999',
+    4 => 'BMM531A',
+    5 => 'BMM541W',
+    6 => 'BMM531D',
+    7 => 'BMM443D',
+    8 => 'BMM441S',
+    9 => 'BMM442S',
+    10 => 'BMM541A',
+    11 => 'BMM543S',
+    12 => 'BMM541B',
+    13 => 'BMM543D',
+    14 => 'BMM441D',
+    15 => 'BMM 533D',
+    16 => 'BMH-AN10',
   ),
   '@BN' => 
   array (
@@ -1249,6 +1541,7 @@ DeviceModels::$ANDROID_INDEX = array (
     9 => 'Bouygues Telecom Bs 451',
     10 => 'Boston 4G',
     11 => 'Boston',
+    12 => 'Boost 3 Pro SE',
   ),
   '@BP' => 
   array (
@@ -1302,6 +1595,134 @@ DeviceModels::$ANDROID_INDEX = array (
     43 => 'BQS-5502',
     44 => 'BQS-5505',
     45 => 'BQS 5505',
+    46 => 'BQ-5515L',
+    47 => 'BQ-5514L',
+    48 => 'BQ-6040L',
+    49 => 'BQ-6010G',
+    50 => 'BQ-5516L',
+    51 => 'BQ-5520L',
+    52 => 'BQ-5707G',
+    53 => 'BQ-5517L',
+    54 => 'BQru-5059',
+    55 => 'BQru-4072',
+    56 => 'BQru-5035',
+    57 => 'BQ-5591',
+    58 => 'BQ-5059',
+    59 => 'BQ-5511L',
+    60 => 'BQ-5730L',
+    61 => 'BQ-5009L',
+    62 => 'BQ-5058',
+    63 => 'BQ-5535L',
+    64 => 'BQ-5209L',
+    65 => 'BQ-6050',
+    66 => 'BQ-5518G',
+    67 => 'BQS-5520',
+    68 => 'BQ-6424L',
+    69 => 'BQ-5731L',
+    70 => 'BQ-5508L',
+    71 => 'BQ-6042L',
+    72 => 'BQ-5016G',
+    73 => 'BQ-5008L',
+    74 => 'BQ-5201',
+    75 => 'BQ-5732L',
+    76 => 'BQ-5012L',
+    77 => 'BQ-5340',
+    78 => 'BQ-6035L',
+    79 => 'BQ-5528L',
+    80 => 'BQS-5060',
+    81 => 'BQ-6001L',
+    82 => 'BQ-5022',
+    83 => 'BQ-1085L',
+    84 => 'BQ-5011G',
+    85 => 'BQ-6022G',
+    86 => 'BQ-4585',
+    87 => 'BQ-5071',
+    88 => 'BQ-7098G',
+    89 => 'BQ-5032',
+    90 => 'BQ-4026',
+    91 => 'BQ-5540L',
+    92 => 'BQS-5502 Hammer',
+    93 => 'BQru-7082',
+    94 => 'BQ-5000G',
+    95 => 'BQ-5300G',
+    96 => 'BQ-5002G',
+    97 => 'BQS-5515',
+    98 => 'BQ-6030G',
+    99 => 'BQ-6630L',
+    100 => 'BQ-6045L',
+    101 => 'BQ-5740G',
+    102 => 'BQru-1056L',
+    103 => 'BQ-5522',
+    104 => 'BQ-5301',
+    105 => 'BQru-4583',
+    106 => 'BQru-5000',
+    107 => 'BQ-6200L',
+    108 => 'BQru-5057',
+    109 => 'BQ-5519L',
+    110 => 'BQru-5503',
+    111 => 'BQru-5204',
+    112 => 'BQru-5044',
+    113 => 'BQ-7082G',
+    114 => 'BQru-5022',
+    115 => 'BQru BQru-5058',
+    116 => 'BQ-5700L',
+    117 => 'BQ-5015L',
+    118 => 'BQ-6016L',
+    119 => 'BQ-5005L',
+    120 => 'BQ-5701L',
+    121 => 'BQru-6015L',
+    122 => 'BQru-5504',
+    123 => 'BQ-5500L',
+    124 => 'BQ-5594',
+    125 => 'BQ-8041L',
+    126 => 'BQ-5010G',
+    127 => 'BQ-7040G',
+    128 => 'BQ-5519G',
+    129 => 'BQ-6631G',
+    130 => 'BQ-6430L',
+    131 => 'BQru-4028',
+    132 => 'BQ-7022G',
+    133 => 'BQ-5514G',
+    134 => 'BQ-5211',
+    135 => 'BQ-5521L',
+    136 => 'BQ-5001L',
+    137 => 'BQ-1084L',
+    138 => 'BQ-5004G',
+    139 => 'BQru-7083',
+    140 => 'BQ-1045',
+    141 => 'BQ-5003L',
+    142 => 'BQru-5201',
+    143 => 'BQ-5037',
+    144 => 'BQru-5054',
+    145 => 'BQ-6015L',
+    146 => 'BQ-5541L',
+    147 => 'BQru-5033',
+    148 => 'BQ-6000L',
+    149 => 'BQ-1083G',
+    150 => 'BQru-5037',
+    151 => 'BQ-7038G',
+    152 => 'BQ-5702',
+    153 => 'BQru-5510',
+    154 => 'BQ-7000G',
+    155 => 'BQ-1022L',
+    156 => 'BQ-5530L',
+    157 => 'BQ-1077L',
+    158 => 'BQ-5056',
+    159 => 'BQru-5202',
+    160 => 'BQ-8068L',
+    161 => 'BQru-5521',
+    162 => 'BQ-5302G',
+    163 => 'BQ-5007L',
+    164 => 'BQ-1082G',
+    165 => 'BQru-4526',
+    166 => 'BQru-5203',
+    167 => 'BQru-4500',
+    168 => 'BQru-5060',
+    169 => 'BQ-5507L',
+    170 => 'BQru-1081G',
+    171 => 'BQ-5206L',
+    172 => 'BQ-5512L',
+    173 => 'BQru-5525',
   ),
   '@BR' => 
   array (
@@ -1313,6 +1734,13 @@ DeviceModels::$ANDROID_INDEX = array (
     5 => 'Broncho M7',
     6 => '(BRS-)?BROR!!',
     7 => 'BRAVIA',
+    8 => 'BRAVIS X500',
+    9 => 'BRAVIS A554',
+    10 => 'bravis A506',
+    11 => 'BRAVIS TREND',
+    12 => 'BRAVIS POWER',
+    13 => 'BRAVIA 4K UR3',
+    14 => 'brown 1',
   ),
   '@BS' => 
   array (
@@ -1320,6 +1748,13 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'Bs 501',
     2 => 'Bs541',
     3 => 'BSTB-200C',
+    4 => 'BS155',
+    5 => 'BS160',
+    6 => 'BS650',
+    7 => 'BS550',
+    8 => 'BS150',
+    9 => 'BS250',
+    10 => 'BS109',
   ),
   '@BT' => 
   array (
@@ -1336,15 +1771,98 @@ DeviceModels::$ANDROID_INDEX = array (
   '@BV' => 
   array (
     0 => 'BV8000Pro',
+    1 => 'BV9700Pro',
+    2 => 'BV5500',
+    3 => 'BV6000',
+    4 => 'BV6800Pro',
+    5 => 'BV6000S',
+    6 => 'BV9000-RU',
+    7 => 'BV4000Pro',
+    8 => 'BV9500Plus',
+    9 => 'BV9100',
+    10 => 'BV5500Pro',
+    11 => 'BV7000',
+    12 => 'BV9000Pro-RU',
+    13 => 'BV5000',
+    14 => 'BV5800 PRO',
+    15 => 'BV9600',
+    16 => 'BV7000 Pro',
+    17 => 'BV9500',
+    18 => 'BV9000Pro-F',
+    19 => 'BV9000-F',
+    20 => 'BV9600Pro',
+    21 => 'BV9500Pro',
+    22 => 'BV7000 PRO',
+    23 => 'BV6100',
+    24 => 'BV5900',
+    25 => 'BV5800',
+    26 => 'BV9000',
+    27 => 'BV9900',
+    28 => 'BV5500Plus',
+    29 => 'BV9600E',
+    30 => 'BV6300Pro',
+    31 => 'BV6900',
+    32 => 'BV9800',
+    33 => 'BV4900',
+    34 => 'BV4900Pro',
+    35 => 'BV9900E',
+    36 => 'BV6300',
+    37 => 'BV9800Pro',
+    38 => 'BV4000Pro-RU',
+    39 => 'BV8000Pro RU',
+    40 => 'BV6000 RU',
+    41 => 'BV9500-RU',
+    42 => 'BV6000S RU',
+    43 => 'BV5800 RU',
+    44 => 'BV5800Pro RU',
+    45 => 'BV6800Pro RU',
+  ),
+  '@C ' => 
+  array (
+    0 => 'C NOTE',
+  ),
+  '@C1' => 
+  array (
+    0 => 'C106-7',
+    1 => 'C103',
+    2 => 'C106-9',
+    3 => 'C106',
+    4 => 'C107-9',
+    5 => 'C106-8',
+    6 => 'C1-U02',
+    7 => 'C105-6',
+    8 => 'C101010 Ultra2',
+    9 => 'C12 Plus',
+    10 => 'C12 Pro',
+    11 => 'C17 Pro',
+    12 => 'C15 Pro',
+    13 => 'C16 Pro',
+    14 => 'C13 Pro',
+    15 => 'C11 Pro',
+    16 => 'C12',
+    17 => 'C18 Pro',
+    18 => 'C19',
+    19 => 'C16',
+    20 => 'C10',
+    21 => 'C1',
+    22 => 'C11',
+    23 => 'C1001',
   ),
   '@C2' => 
   array (
     0 => 'C2',
+    1 => 'C21',
+  ),
+  '@C3' => 
+  array (
+    0 => 'C30',
   ),
   '@C5' => 
   array (
     0 => '(GIO-)?(GiONEE[- ])?C500!',
     1 => 'C525c',
+    2 => 'C5',
+    3 => 'C5 PRO',
   ),
   '@C6' => 
   array (
@@ -1369,6 +1887,8 @@ DeviceModels::$ANDROID_INDEX = array (
     5 => 'C8817E',
     6 => 'C8[0-9]{3,3}!!',
     7 => 'C868',
+    8 => 'C8',
+    9 => 'C8 4G',
   ),
   '@C9' => 
   array (
@@ -1395,10 +1915,16 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => 'calgary',
     17 => 'Captivate-I897',
     18 => 'capricorn',
+    19 => 'Capture+',
+    20 => 'CAG-L22',
   ),
   '@CC' => 
   array (
     0 => 'CCE SK352',
+  ),
+  '@CD' => 
+  array (
+    0 => 'CDY-NX9A',
   ),
   '@CE' => 
   array (
@@ -1427,6 +1953,7 @@ DeviceModels::$ANDROID_INDEX = array (
     15 => '(HW-|HUAWEI )?(BLL|CHC|TAG|KII)!!',
     16 => 'chagall',
     17 => 'chiron',
+    18 => 'Changhong X1-K',
   ),
   '@CI' => 
   array (
@@ -1444,6 +1971,24 @@ DeviceModels::$ANDROID_INDEX = array (
     11 => 'Cink Slim A',
     12 => 'Cink Slim B',
     13 => 'CINK SLIM 2',
+    14 => 'CinemaTV 3G',
+    15 => 'CITI 1903 4G CS1062ML',
+    16 => 'CITI 8 E400 4G CS8231PL',
+    17 => 'CITI 653 4G CS6062ML',
+    18 => 'CITI 1508 4G CS1114ML',
+    19 => 'CITI 609 4G CS6063ML',
+    20 => 'CITI Octa 10 CS1219PL',
+    21 => 'CITI 1578 4G CS1196ML',
+    22 => 'CITI Octa 80 CS8218PL',
+    23 => 'CITI 8592 3G CS8209MG',
+    24 => 'CITI 7591 3G CS7208MG',
+    25 => 'CITI 1576 3G CS1194MG',
+    26 => 'CITI 1532 3G CS1144MG',
+    27 => 'CITI 7586 3G TS7203MG',
+    28 => 'CITI Octa 70 CS7217PL',
+    29 => 'CITI ATL 4G CS5029ML',
+    30 => 'CITI 7507 4G CS7113PL',
+    31 => 'CITI 1590 3G CS1207MG',
   ),
   '@CJ' => 
   array (
@@ -1463,6 +2008,7 @@ DeviceModels::$ANDROID_INDEX = array (
     9 => 'CLIQ',
     10 => 'CLIQ XT',
     11 => 'CLIQ2',
+    12 => 'Classic Joy',
   ),
   '@CM' => 
   array (
@@ -1503,6 +2049,16 @@ DeviceModels::$ANDROID_INDEX = array (
     21 => 'COOLPIX S800c',
     22 => 'COOLPIX S810c',
     23 => 'Constellation V',
+    24 => 'Contixo CX 1030',
+    25 => 'Contixo KT1100GT',
+    26 => 'Coolpad R116',
+    27 => 'Coolpad N2',
+    28 => 'COR-L29',
+    29 => 'COR-AL10',
+    30 => 'COR-AL00',
+    31 => 'COSMO L808',
+    32 => 'Cool 1',
+    33 => 'Compact',
   ),
   '@CP' => 
   array (
@@ -1537,6 +2093,43 @@ DeviceModels::$ANDROID_INDEX = array (
     28 => 'CPH1879',
     29 => 'CPH1861',
     30 => 'CPH1979',
+    31 => 'CP9',
+    32 => 'CPH1909',
+    33 => 'CPH1931',
+    34 => 'CPH1923',
+    35 => 'CPH1903',
+    36 => 'CPH1917',
+    37 => 'CPH1951',
+    38 => 'CPH1893',
+    39 => 'CPH1907',
+    40 => 'CPH1877',
+    41 => 'CPH1725',
+    42 => 'CPH2015',
+    43 => 'CPH1911',
+    44 => 'CPH2043',
+    45 => 'CPH1919',
+    46 => 'CPH2083',
+    47 => 'CPH2069',
+    48 => 'CPH2021',
+    49 => 'CPH1943',
+    50 => 'CPH2067',
+    51 => 'CPH2009',
+    52 => 'CPH2127',
+    53 => 'CPH2125',
+    54 => 'CPH2065',
+    55 => 'CPH2023',
+    56 => 'CPH2185',
+    57 => 'CPH2179',
+    58 => 'CPH2113',
+    59 => 'CPH2095',
+    60 => 'CPH2159',
+    61 => 'CPH2205',
+    62 => 'CPH1920',
+    63 => 'CPH2109',
+    64 => 'CPH2135',
+    65 => 'CPH2239',
+    66 => 'CPH2219',
+    67 => 'CPH1853',
   ),
   '@CR' => 
   array (
@@ -1548,6 +2141,7 @@ DeviceModels::$ANDROID_INDEX = array (
     5 => '(HW-|HUAWEI )?(CRO|LUA|CUN|SCC|SCU|CAM|LDN|LYO|MYA)!!',
     6 => 'CRONO 22',
     7 => 'Crescent',
+    8 => 'Crystal',
   ),
   '@CS' => 
   array (
@@ -1579,10 +2173,33 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(CUBE ?)?(K8|U1|U2|U3|U5|U6|U8|U9)[0-9]?GT!!',
     2 => 'CUBE!!',
     3 => '(HW-|HUAWEI )?(CRO|LUA|CUN|SCC|SCU|CAM|LDN|LYO|MYA)!!',
+    4 => 'CUBOT NOTE Plus',
+    5 => 'CUBOT KING KONG',
+    6 => 'CUBOT A5',
+    7 => 'CUBOT DINOSAUR',
+    8 => 'CUBOT X18 Plus',
+    9 => 'CUBOT NOVA',
+    10 => 'CUBOT POWER',
+    11 => 'CUBOT P20',
+    12 => 'CUBOT NOTE S',
+    13 => 'CUBOT H3',
+    14 => 'CUBOT J3',
+    15 => 'CUBOT MAX',
+    16 => 'CUBOT CHEETAH 2',
+    17 => 'CUBOT X18',
+    18 => 'CUBOT MANITO',
+    19 => 'CUBOT R9',
+    20 => 'CUBOT MAGIC',
+    21 => 'CUBOT ECHO',
+  ),
+  '@CV' => 
+  array (
+    0 => 'CVTE MSD338 512M',
   ),
   '@CW' => 
   array (
     0 => 'CW[- ]!!',
+    1 => 'CW-Hi8-super',
   ),
   '@CX' => 
   array (
@@ -1614,6 +2231,10 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'D000-0000(10|11)-N!',
     4 => 'D000 000043',
   ),
+  '@D1' => 
+  array (
+    0 => 'D1',
+  ),
   '@D2' => 
   array (
     0 => 'D2-[0-9]{3,3}!!',
@@ -1623,6 +2244,10 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'D530',
     1 => 'D539',
+  ),
+  '@D6' => 
+  array (
+    0 => 'D6',
   ),
   '@D7' => 
   array (
@@ -1658,6 +2283,7 @@ DeviceModels::$ANDROID_INDEX = array (
     9 => 'DARKMOON',
     10 => 'DARKNIGHT',
     11 => 'DARKSIDE',
+    12 => 'dandelion',
   ),
   '@DE' => 
   array (
@@ -1692,6 +2318,12 @@ DeviceModels::$ANDROID_INDEX = array (
     28 => 'Dext',
     29 => 'Devour',
     30 => 'DEM752NC',
+    31 => 'DEXP ES1050',
+    32 => 'DEXP Ixion ES2 5\'\'',
+    33 => 'DEXP Ixion M LTE 5',
+    34 => 'DEXP Shell LC390TA1A',
+    35 => 'DEXP Energy',
+    36 => 'DEXP Ixion ML2 5',
   ),
   '@DG' => 
   array (
@@ -1735,6 +2367,7 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'DLXU',
     4 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
     5 => 'dL1',
+    6 => 'DLT-H0',
   ),
   '@DM' => 
   array (
@@ -1756,6 +2389,7 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'DNS S!!',
     3 => 'DNSS4003',
     4 => 'DNS4502M',
+    5 => 'DNN-LX9',
   ),
   '@DO' => 
   array (
@@ -1770,6 +2404,7 @@ DeviceModels::$ANDROID_INDEX = array (
     8 => 'Doro PhoneEasy 745',
     9 => 'Dolphin 70e Black',
     10 => 'Docomo HT-03A',
+    11 => 'DOOGEE X10',
   ),
   '@DP' => 
   array (
@@ -1815,6 +2450,8 @@ DeviceModels::$ANDROID_INDEX = array (
     32 => 'DROIDZ Race X',
     33 => 'DROIDZ Sport',
     34 => 'DROIDZ Ultimate',
+    35 => 'DRA-LX5',
+    36 => 'DRA-LX9',
   ),
   '@DS' => 
   array (
@@ -1828,6 +2465,11 @@ DeviceModels::$ANDROID_INDEX = array (
   '@DU' => 
   array (
     0 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
+    1 => 'DUB-LX1',
+    2 => 'DUB-LX2',
+    3 => 'DUA-LX9',
+    4 => 'DUB-LX3',
+    5 => 'DUB-AL00a',
   ),
   '@DW' => 
   array (
@@ -1867,6 +2509,8 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'E1031',
     3 => 'e1808 v75!',
     4 => 'e1109 v73!',
+    5 => 'E13',
+    6 => 'E11',
   ),
   '@E2' => 
   array (
@@ -1892,6 +2536,7 @@ DeviceModels::$ANDROID_INDEX = array (
   '@E5' => 
   array (
     0 => '(GIO-)?(GiONEE[- ])?E5$!',
+    1 => 'E500A',
   ),
   '@E6' => 
   array (
@@ -1901,6 +2546,7 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'E6782',
     4 => 'E650',
     5 => 'E60w',
+    6 => 'E6810',
   ),
   '@E7' => 
   array (
@@ -1908,6 +2554,7 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(GIO-)?(GiONEE[- ])?E7$!',
     2 => 'E780',
     3 => 'E731',
+    4 => 'E7s',
   ),
   '@E8' => 
   array (
@@ -1917,17 +2564,27 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'E815',
     4 => 'E812',
     5 => 'E810',
+    6 => 'E8 Ultra',
   ),
   '@E9' => 
   array (
     0 => 'E900',
     1 => 'E912',
+    2 => 'E9',
   ),
   '@EA' => 
   array (
     0 => 'eagle75v1 2',
     1 => 'EasyPhone EP5',
     2 => 'EasyPad 971',
+    3 => 'Easy L',
+    4 => 'Easy S Pro',
+    5 => 'Easy-Power-Pro',
+    6 => 'Easy S',
+    7 => 'Easy F Pro',
+    8 => 'Easy XL',
+    9 => 'Easy L Pro',
+    10 => 'Eagle 4G',
   ),
   '@EB' => 
   array (
@@ -1938,6 +2595,7 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'EB-W51GJ',
     5 => 'EB-WX1GJ',
     6 => 'EB-L76G-B',
+    7 => 'EBG-AN10',
   ),
   '@EC' => 
   array (
@@ -1976,6 +2634,7 @@ DeviceModels::$ANDROID_INDEX = array (
   '@EK' => 
   array (
     0 => 'EK-[GK][CN][0-9]{3,3}!!',
+    1 => 'EKO Star LTE G60',
   ),
   '@EL' => 
   array (
@@ -2011,6 +2670,11 @@ DeviceModels::$ANDROID_INDEX = array (
     29 => '(SENCOR )?ELEMENT!!',
     30 => 'Elite 5.5L+',
     31 => 'Elite 6.0L',
+    32 => 'ELF S8',
+    33 => 'Elegance 5 0',
+    34 => 'ELS-NX9',
+    35 => 'Elite 5',
+    36 => 'Elite 1',
   ),
   '@EM' => 
   array (
@@ -2020,6 +2684,7 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => '(HW-|HUAWEI )?(ALE|ANE|CLT|D2|DAV|ELE|EML|EVA|FIG|G6|G7|GRA|M100|P2|P6|P7|PRA|RIO|SC|Sophia|STK|VIE|VKY|VNS|VOG|VTR|WAS)!!',
     4 => 'eMAX mini',
     5 => 'EMR1879',
+    6 => 'EM95X',
   ),
   '@EN' => 
   array (
@@ -2050,12 +2715,17 @@ DeviceModels::$ANDROID_INDEX = array (
     7 => 'era HD',
     8 => 'era 4G',
     9 => 'era 4K',
+    10 => 'ERGO A500 Best',
+    11 => 'ERGO F501',
+    12 => 'ERGO B500 First',
+    13 => 'ERGO A556',
   ),
   '@ES' => 
   array (
     0 => '(DNS )?(Airtab )?(E|ES|M|MA|MC|MF|MW|P|PC|PF)[0-9]{2,4}!!',
     1 => '(E-Boda|Eruption|Essential|Supreme|Storm|Revo)!!',
     2 => 'eSTAR!!',
+    3 => 'ES750',
   ),
   '@ET' => 
   array (
@@ -2066,6 +2736,10 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'ET1',
     5 => 'Etisalat Smartphone',
     6 => 'etab5',
+  ),
+  '@EU' => 
+  array (
+    0 => 'EU 4K Android TV',
   ),
   '@EV' => 
   array (
@@ -2085,6 +2759,8 @@ DeviceModels::$ANDROID_INDEX = array (
     13 => '(EV|KM)-[ES][0-9]{3,3}!!',
     14 => 'Event',
     15 => 'EVERY35',
+    16 => 'Evolio M5Pro',
+    17 => 'EVO G4',
   ),
   '@EX' => 
   array (
@@ -2093,6 +2769,7 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => '(Explay|X-tremer|ActiveD|Informer|Surfer)!!',
     3 => '(Highscreen|Alpha|Bay|Boost|Cosmo|Explosion|Power|Prime|Zera)!!',
     4 => 'Explorer A310e',
+    5 => 'Expanse',
   ),
   '@EZ' => 
   array (
@@ -2117,6 +2794,11 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'F1w',
     5 => 'F13',
     6 => 'F15',
+    7 => 'F1',
+  ),
+  '@F2' => 
+  array (
+    0 => 'F2',
   ),
   '@F3' => 
   array (
@@ -2125,10 +2807,16 @@ DeviceModels::$ANDROID_INDEX = array (
   '@F5' => 
   array (
     0 => 'F50Q',
+    1 => 'F572L',
+    2 => 'F501 Magic',
   ),
   '@F6' => 
   array (
     0 => 'F600',
+  ),
+  '@F7' => 
+  array (
+    0 => 'F7',
   ),
   '@FA' => 
   array (
@@ -2146,11 +2834,15 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'FDT!!',
     1 => 'FDR-A01w',
+    2 => 'FDR-A01L',
   ),
   '@FE' => 
   array (
     0 => 'FEVER',
     1 => 'ferrari',
+    2 => 'FestXL-Pro',
+    3 => 'FestXL',
+    4 => 'Fest-Pro',
   ),
   '@FH' => 
   array (
@@ -2163,6 +2855,10 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => '(HW-|HUAWEI )?(ALE|ANE|CLT|D2|DAV|ELE|EML|EVA|FIG|G6|G7|GRA|M100|P2|P6|P7|PRA|RIO|SC|Sophia|STK|VIE|VKY|VNS|VOG|VTR|WAS)!!',
     3 => 'Find 5',
     4 => 'FIND7',
+    5 => 'Fire Phone',
+    6 => 'FinePower C1',
+    7 => 'FinePower D1',
+    8 => 'FinePower C3',
   ),
   '@FJ' => 
   array (
@@ -2208,6 +2904,11 @@ DeviceModels::$ANDROID_INDEX = array (
     34 => 'Flair P8',
     35 => 'Flair S1',
     36 => 'Flair Z1',
+    37 => 'FLYCAT OPTIMUM 5004',
+    38 => 'Fly 5',
+    39 => 'FLOW7',
+    40 => 'FLOW 5',
+    41 => 'Fly5 lite',
   ),
   '@FN' => 
   array (
@@ -2235,6 +2936,7 @@ DeviceModels::$ANDROID_INDEX = array (
     17 => 'Forward 5.5',
     18 => 'Folio 100',
     19 => 'folio100',
+    20 => 'Force F500',
   ),
   '@FP' => 
   array (
@@ -2247,6 +2949,7 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => 'Freelander I20',
     1 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
     2 => '(MODECOM )?FreeTAB!!',
+    3 => 'Fresh',
   ),
   '@FS' => 
   array (
@@ -2254,6 +2957,35 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'FS407',
     2 => 'FS451',
     3 => 'FS514',
+    4 => 'FS405',
+    5 => 'FS511',
+    6 => 'FS506',
+    7 => 'FS520',
+    8 => 'FS507',
+    9 => 'FS509',
+    10 => 'FS554',
+    11 => 'FS504',
+    12 => 'FS459',
+    13 => 'FS516',
+    14 => 'FS553',
+    15 => 'FS502',
+    16 => 'FS501',
+    17 => 'FS530',
+    18 => 'FS517',
+    19 => 'FS529',
+    20 => 'FS518',
+    21 => 'FS551',
+    22 => 'FS408',
+    23 => 'FS510',
+    24 => 'FS508',
+    25 => 'FS528',
+    26 => 'FS527',
+    27 => 'FS458',
+    28 => 'FS522',
+    29 => 'FS8010',
+    30 => 'FS8032',
+    31 => 'FS8002',
+    32 => 'FS8018',
   ),
   '@FT' => 
   array (
@@ -2311,11 +3043,15 @@ DeviceModels::$ANDROID_INDEX = array (
     15 => 'G18mini(C5B9)',
     16 => 'G18d 3G四核(D3A2)',
     17 => 'G18d mini(FV2C)',
+    18 => 'G155',
   ),
   '@G2' => 
   array (
     0 => 'G2S',
     1 => 'G2SMNT',
+    2 => 'G253',
+    3 => 'G255',
+    4 => 'G250',
   ),
   '@G3' => 
   array (
@@ -2323,6 +3059,19 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(Moto)?G3-TE$!',
     2 => 'G3SMNTS22',
     3 => 'G3SMNTS23',
+    4 => 'G301',
+    5 => 'G355',
+  ),
+  '@G4' => 
+  array (
+    0 => 'G450',
+  ),
+  '@G5' => 
+  array (
+    0 => 'G550',
+    1 => 'G552KL',
+    2 => 'G550KL',
+    3 => 'G553KL',
   ),
   '@G6' => 
   array (
@@ -2331,10 +3080,13 @@ DeviceModels::$ANDROID_INDEX = array (
   '@G7' => 
   array (
     0 => '(HW-|HUAWEI )?(ALE|ANE|CLT|D2|DAV|ELE|EML|EVA|FIG|G6|G7|GRA|M100|P2|P6|P7|PRA|RIO|SC|Sophia|STK|VIE|VKY|VNS|VOG|VTR|WAS)!!',
+    1 => 'G7',
+    2 => 'G7s',
   ),
   '@G9' => 
   array (
     0 => 'G9',
+    1 => 'G9200',
   ),
   '@GA' => 
   array (
@@ -2342,6 +3094,12 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'Galaxy S4 Google Editon',
     2 => 'Garmin!!',
     3 => 'Galaxy!!',
+    4 => 'Galaxy J4+',
+    5 => 'GALAXY S8',
+    6 => 'Galaxy S10',
+    7 => 'Galaxy Tab 4',
+    8 => 'Galaxy j5',
+    9 => 'Galaxy S8',
   ),
   '@GE' => 
   array (
@@ -2358,6 +3116,9 @@ DeviceModels::$ANDROID_INDEX = array (
     10 => 'gemini',
     11 => 'General Mobile 4G',
     12 => 'General Mobile 4G Dual',
+    13 => 'GEOTEL Note',
+    14 => 'GEOTEL G1',
+    15 => 'GEM-701L',
   ),
   '@GF' => 
   array (
@@ -2474,6 +3235,12 @@ DeviceModels::$ANDROID_INDEX = array (
     101 => '(GIO-)?(GiONEE[- ])?Gpad G2!',
     102 => '(GIO-)?(GiONEE[- ])?Gpad G3!',
     103 => 'GinDream/GinMagic',
+    104 => 'Gini w7',
+    105 => 'Ginzzu GT-8110',
+    106 => 'Ginzzu GT-W831',
+    107 => 'GIONEE X1',
+    108 => 'GIONEE F205 lite',
+    109 => 'GIONEE S11 lite',
   ),
   '@GK' => 
   array (
@@ -2494,6 +3261,9 @@ DeviceModels::$ANDROID_INDEX = array (
     10 => 'GL-900',
     11 => 'GLX!!',
     12 => 'GL07S',
+    13 => 'GL355',
+    14 => 'GL255',
+    15 => 'GLK-AL00',
   ),
   '@GM' => 
   array (
@@ -2512,6 +3282,9 @@ DeviceModels::$ANDROID_INDEX = array (
     12 => 'GM 6 d',
     13 => 'GM 8 d',
     14 => 'GM Discovery tab 8',
+    15 => 'GM8 go',
+    16 => 'GM 8',
+    17 => 'GM 9 Pro d',
   ),
   '@GN' => 
   array (
@@ -2603,6 +3376,11 @@ DeviceModels::$ANDROID_INDEX = array (
     26 => 'GO980',
     27 => 'GO984',
     28 => 'Gomobile GO1001',
+    29 => 'GOME 2016G68A',
+    30 => 'GOME 2017M95A',
+    31 => 'GOME 2017M27A',
+    32 => 'GOME C7 Note Plus',
+    33 => 'GoalPlus',
   ),
   '@GP' => 
   array (
@@ -2615,6 +3393,7 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => '(GIO-)?(GiONEE[- ])?Gpad G2!',
     7 => '(GIO-)?(GiONEE[- ])?Gpad G3!',
     8 => 'Gpad G5',
+    9 => 'Gpad U',
   ),
   '@GR' => 
   array (
@@ -2624,6 +3403,8 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'greenridge',
     4 => 'Graphos A10',
     5 => '(ZTE )?(Grand|Mimosa)!!',
+    6 => 'Gretel',
+    7 => 'GRACE',
   ),
   '@GS' => 
   array (
@@ -2631,6 +3412,12 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(Gsmart|Gigabyte|Rio)!!',
     2 => 'GS02',
     3 => 'GS03',
+    4 => 'GS155',
+    5 => 'GS153',
+    6 => 'GS150',
+    7 => 'GS700',
+    8 => 'GS180',
+    9 => 'GS185',
   ),
   '@GT' => 
   array (
@@ -2655,10 +3442,12 @@ DeviceModels::$ANDROID_INDEX = array (
     18 => 'GT9100',
     19 => 'GTablet',
     20 => 'GtabComb',
+    21 => 'GT-1045',
   ),
   '@GU' => 
   array (
     0 => 'gucci',
+    1 => 'Guophone x2',
   ),
   '@GV' => 
   array (
@@ -2675,18 +3464,27 @@ DeviceModels::$ANDROID_INDEX = array (
   '@H1' => 
   array (
     0 => 'H120',
+    1 => 'H110',
+    2 => 'H10',
   ),
   '@H2' => 
   array (
     0 => 'H2000+',
+    1 => 'H210',
+    2 => 'H270',
   ),
   '@H3' => 
   array (
     0 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
   ),
+  '@H5' => 
+  array (
+    0 => 'H5',
+  ),
   '@H6' => 
   array (
     0 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
+    1 => 'H6 Mini',
   ),
   '@H7' => 
   array (
@@ -2706,6 +3504,12 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'H940',
     1 => 'H9500',
+    2 => 'H96 Max X2',
+    3 => 'H96 Max RK3318',
+    4 => 'H96 PRO+',
+    5 => 'H96Max RK3318',
+    6 => 'H9436',
+    7 => 'H9493',
   ),
   '@HA' => 
   array (
@@ -2720,6 +3524,17 @@ DeviceModels::$ANDROID_INDEX = array (
     8 => 'HannsComb',
     9 => 'Hannspadd',
     10 => 'Hayabusa',
+    11 => 'Hammer Energy 18x9',
+    12 => 'Hammer Active',
+    13 => 'HAFURY MIX',
+    14 => 'Haier i50',
+    15 => 'Haier T50',
+    16 => 'Haier T54P',
+    17 => 'Haier T53P',
+    18 => 'hammer S',
+    19 => 'Hasee X50 TS',
+    20 => 'Hammer Energy',
+    21 => 'Hammer Energy 2',
   ),
   '@HB' => 
   array (
@@ -2735,6 +3550,8 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
     4 => 'HD190[01]!',
     5 => 'HD191[03]!',
+    6 => 'HD1903',
+    7 => 'HD1907',
   ),
   '@HE' => 
   array (
@@ -2743,6 +3560,10 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'Hero',
     3 => 'HERO CDMA',
     4 => 'HERO200',
+  ),
+  '@HG' => 
+  array (
+    0 => 'HG11',
   ),
   '@HI' => 
   array (
@@ -2762,6 +3583,24 @@ DeviceModels::$ANDROID_INDEX = array (
     13 => 'HIGHWAY',
     14 => 'HIGHWAY PURE',
     15 => 'HIGHWAY SIGNS',
+    16 => 'Hi10 pro',
+    17 => 'Hi10 plus',
+    18 => 'Hi9Air',
+    19 => 'Hi9Pro',
+    20 => 'Hi8 pro',
+    21 => 'HIT Q401 3G HT4039PG',
+    22 => 'HIT Q500 3G HT5035PG',
+    23 => 'hi6250',
+    24 => 'Hisense A6',
+    25 => 'Hisense H30 Lite',
+    26 => 'Hisense H30',
+    27 => 'Hisense F25',
+    28 => 'Hisense U30',
+    29 => 'Hisense C20S',
+    30 => 'Hisense Rock 5',
+    31 => 'Hisense E MAX',
+    32 => 'hi6210sft',
+    33 => 'hiPower',
   ),
   '@HK' => 
   array (
@@ -2780,6 +3619,33 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => '(Xiaomi )?(Redmi|RedRice|HM)!!',
     4 => '(Xiaomi )?(Redmi|HM)[ \\-]?Note!!',
     5 => '(Xiaomi |HM)?20!!',
+    6 => 'HM-N505-FL',
+    7 => 'HM-N700-FL',
+    8 => 'HMSCore 4.0.3.316',
+    9 => 'HMSCore 4.0.4.307',
+    10 => 'HMSCore 4.1.0.301',
+    11 => 'HMSCore 5.0.0.304',
+    12 => 'HMSCore 4.0.1.323',
+    13 => 'HMSCore 4.0.3.320',
+    14 => 'HMSCore 3.0.1.306',
+    15 => 'HMSCore 5.0.1.307',
+    16 => 'HMSCore 5.0.1.313',
+    17 => 'HMSCore 4.1.0.308',
+    18 => 'HMSCore 5.0.2.301',
+    19 => 'HMSCore 5.0.3.304',
+    20 => 'HMSCore 5.0.4.301',
+    21 => 'HMSCore 5.0.5.300',
+    22 => 'HMSCore 5.0.0.329',
+    23 => 'HMSCore 5.1.0.309',
+    24 => 'HMSCore 5.1.1.300',
+    25 => 'HMSCore 5.1.1.303',
+    26 => 'HMSCore 5.2.0.303',
+    27 => 'HMSCore 5.2.0.318',
+    28 => 'HMSCore 5.2.0.324',
+    29 => 'HMSCore 5.2.0.333',
+    30 => 'HMSCore 5.3.0.312',
+    31 => 'HMSCore 6.0.0.305',
+    32 => 'HMSCore 6.0.0.306',
   ),
   '@HN' => 
   array (
@@ -2792,6 +3658,7 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'Honor3c2G-T',
     3 => 'Honor Bee',
     4 => 'HOMESYNCT2WIFI',
+    5 => 'HongQi HQ1',
   ),
   '@HP' => 
   array (
@@ -2800,6 +3667,15 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'HP!!',
     3 => 'HP-TouchPad',
     4 => '(HP )?Touchpad!',
+  ),
+  '@HR' => 
+  array (
+    0 => 'HRY-LX1',
+    1 => 'HRY-LX1T',
+    2 => 'HRY-LX1MEB',
+    3 => 'HRY-AL00a',
+    4 => 'HRY-LX2',
+    5 => 'HRY-AL00Ta',
   ),
   '@HS' => 
   array (
@@ -2833,6 +3709,27 @@ DeviceModels::$ANDROID_INDEX = array (
     18 => 'HTC S910m',
     19 => 'HTC myTouch 4G Slide',
     20 => 'HTC Doubleshot',
+    21 => 'HT7',
+    22 => 'HT16',
+    23 => 'HT3',
+    24 => 'HT50',
+    25 => 'HT70',
+    26 => 'HT20',
+    27 => 'HT37',
+    28 => 'HT7Pro',
+    29 => 'HT3 Pro',
+    30 => 'HT27',
+    31 => 'HT80',
+    32 => 'HT37Pro',
+    33 => 'HTC D160LVWPP',
+    34 => 'HTC One S9',
+    35 => 'HTC U11 life',
+    36 => 'HTC M10f',
+    37 => 'HTC U11 plus',
+    38 => 'HTC 2Q4R100',
+    39 => 'HTC U-1u',
+    40 => 'HTC One M9 Prime Camera Edition',
+    41 => 'HT16Pro',
   ),
   '@HU' => 
   array (
@@ -2872,6 +3769,10 @@ DeviceModels::$ANDROID_INDEX = array (
     33 => 'Hudl 2',
     34 => 'HUAWEI U8686',
     35 => 'Huawei 858',
+    36 => 'Huawei KSA-LX9',
+    37 => 'Huawei JAT-LX1',
+    38 => 'Huawei Mate 20 Lite',
+    39 => 'Hummer 2019 R',
   ),
   '@HW' => 
   array (
@@ -2907,6 +3808,10 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'Hydro PLUS',
     4 => 'HYPER X BLADE',
   ),
+  '@HZ' => 
+  array (
+    0 => 'HZ0010',
+  ),
   '@I ' => 
   array (
     0 => 'I 7520',
@@ -2919,27 +3824,58 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'i-Call 504',
     4 => '(i-mobile|i-style|IQ)!!',
   ),
+  '@I0' => 
+  array (
+    0 => 'I001DE',
+    1 => 'I01WD',
+    2 => 'I001DA',
+    3 => 'I001DB',
+    4 => 'I001DC',
+    5 => 'I003DD',
+  ),
   '@I1' => 
   array (
     0 => 'I110',
     1 => 'i1',
   ),
+  '@I2' => 
+  array (
+    0 => 'I216X',
+  ),
   '@I3' => 
   array (
     0 => 'i3000',
+    1 => 'I3312',
+    2 => 'i30-LD',
+  ),
+  '@I4' => 
+  array (
+    0 => 'I4312',
+    1 => 'I4',
   ),
   '@I5' => 
   array (
     0 => 'i5300',
     1 => 'i5350',
+    2 => 'i5510',
+    3 => 'i5012',
+    4 => 'i5030',
+    5 => 'i5031',
+    6 => 'i5532',
+    7 => 'i5530',
+    8 => 'i5014',
+    9 => 'i5013',
+    10 => 'i5050',
   ),
   '@I6' => 
   array (
     0 => 'i6000',
+    1 => 'I6 Infinity',
   ),
   '@I7' => 
   array (
     0 => 'I7500',
+    1 => 'I7',
   ),
   '@I8' => 
   array (
@@ -2959,6 +3895,7 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'I9000',
     7 => 'I9300 Galaxy SIII ',
     8 => 'I9300',
+    9 => 'I9192I',
   ),
   '@IB' => 
   array (
@@ -2970,6 +3907,9 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'ICONIA!!',
     1 => 'IconBit NetTab Thor Mini',
+    2 => 'Ice2',
+    3 => 'iconBIT Movie Ultra HD 4K',
+    4 => 'iconBIT',
   ),
   '@ID' => 
   array (
@@ -3008,6 +3948,59 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => '(SKY )?IM[- ][A-Z][0-9]{3,3}!!',
     7 => 'IM-100K',
     8 => 'IM-100S',
+    9 => 'Impulse P2',
+    10 => 'Impression ImSmart C551',
+    11 => 'Impad6115',
+    12 => 'ImSmart A503',
+    13 => 'Impression ImPAD P701',
+    14 => 'Impress Strong',
+    15 => 'Impress Blade',
+    16 => 'Impress Eagle',
+    17 => 'Impress Vega',
+    18 => 'Impress InTouch 3G',
+    19 => 'Impress Game',
+    20 => 'Impress Lagune',
+    21 => 'Impress Disco',
+    22 => 'Impress Win',
+    23 => 'Impress Ra',
+    24 => 'Impress Flash',
+    25 => 'Impress Calypso',
+    26 => 'Impress Nero',
+    27 => 'Impress Fortune',
+    28 => 'Impress Click NFC',
+    29 => 'Impress Tor',
+    30 => 'Impress Reef',
+    31 => 'Impress Indigo',
+    32 => 'Impress Lotus',
+    33 => 'Impress Mars',
+    34 => 'Impress Action',
+    35 => 'Impress Life',
+    36 => 'Impress Luck',
+    37 => 'Impress Wolf',
+    38 => 'Impress Forest',
+    39 => 'IMPRESS CLICK',
+    40 => 'Impress Pear',
+    41 => 'Impress Vira',
+    42 => 'Impress Grip',
+    43 => 'IMPRESS ECLIPSE',
+    44 => 'Impress Bear',
+    45 => 'Impress Pluto',
+    46 => 'Impress Luck4G NFC',
+    47 => 'Impress Fire',
+    48 => 'Impress Stone',
+    49 => 'Impress Frost',
+    50 => 'Impress New',
+    51 => 'Impress Zeon3G',
+    52 => 'Impress Rosso',
+    53 => 'Impress Cube',
+    54 => 'Impress Phonic',
+    55 => 'Impress Groove',
+    56 => 'Impress Aqua',
+    57 => 'Impress Spring',
+    58 => 'Impress Saturn',
+    59 => 'Impress InTouch 4G',
+    60 => 'Impress Play',
+    61 => 'Impress Eagle4G',
   ),
   '@IN' => 
   array (
@@ -3038,15 +4031,55 @@ DeviceModels::$ANDROID_INDEX = array (
     24 => 'Infinity',
     25 => 'Internet TV',
     26 => 'Internet TV Box',
+    27 => 'INOI 2 Lite 2019',
+    28 => 'INOI 5i Lite',
+    29 => 'INOI 3 POWER',
+    30 => 'INOI 2 Lite 2021',
+    31 => 'INOI 7 LITE',
+    32 => 'INOI 6',
+    33 => 'INOI 2 Lite 4Gb',
+    34 => 'INOI 7i',
+    35 => 'INOI 7i Lite',
+    36 => 'INOI 5X Lite',
+    37 => 'INOI 5X',
+    38 => 'INOI 7 2020',
+    39 => 'INOI 2 2019',
+    40 => 'INOI 2',
+    41 => 'Infinix X604',
+    42 => 'Infinix X650C',
+    43 => 'Infinix X657B',
+    44 => 'Infinix X687',
+    45 => 'Infinix X687B',
+    46 => 'Infinix X692',
+    47 => 'Innos D6000',
+    48 => 'INOI 2 LITE',
+    49 => 'INOI 6 Lite',
+    50 => 'INOI 3 LITE',
+    51 => 'INOI 1 Lite',
+    52 => 'INOI 5 Pro',
+    53 => 'INOI 5i Pro',
+    54 => 'INOI 3',
+    55 => 'INNOSR545',
+    56 => 'IN2020',
+    57 => 'IN2013',
+    58 => 'IN2010',
+    59 => 'IN2023',
+    60 => 'IN2025',
+    61 => 'INOI 5i',
   ),
   '@IO' => 
   array (
     0 => 'iOCEAN!!',
+    1 => 'ioutdoor X',
   ),
   '@IP' => 
   array (
     0 => 'iP977',
     1 => 'IPRO i5S',
+    2 => 'iPlay 20',
+    3 => 'iPhone13,4',
+    4 => 'iPhone13,2',
+    5 => 'iPhone12,8',
   ),
   '@IQ' => 
   array (
@@ -3054,10 +4087,13 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'iQ(Talk|Tab)!!',
     2 => 'iQ7 8GB',
     3 => '(i-mobile|i-style|IQ)!!',
+    4 => 'iQA27X E',
   ),
   '@IR' => 
   array (
     0 => 'Iris!!',
+    1 => 'IRON 2',
+    2 => 'IRON',
   ),
   '@IS' => 
   array (
@@ -3086,10 +4122,23 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'ITP-XD10W',
     2 => 'ITP-XD80L',
     3 => 'ITP-XD97W',
+    4 => 'itel A44 PowerRU',
+    5 => 'itel A52 Lite',
+    6 => 'itel A44',
+    7 => 'itel A16 Plus RU',
+    8 => 'itel A45',
+    9 => 'itel P11',
+    10 => 'itel P13 Plus',
+    11 => 'itel L5503',
+    12 => 'itel L6005',
+    13 => 'itel L5002',
+    14 => 'itel L6006',
+    15 => 'itel L6502',
   ),
   '@IU' => 
   array (
     0 => 'IUNI U810',
+    1 => 'IUNI i1',
   ),
   '@IV' => 
   array (
@@ -3104,11 +4153,58 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => 'iX101T1',
     1 => 'iX101T1-2G',
     2 => 'iX101T1-XS',
+    3 => 'Ixion ML150',
+    4 => 'Ixion EL450',
+    5 => 'Ixion ES950',
+    6 => 'Ixion M340',
+    7 => 'Ixion X LTE 4.5"',
+    8 => 'Ixion ML245',
+    9 => 'Ixion XL240',
+    10 => 'Ixion X145',
+    11 => 'Ixion M545',
+    12 => 'Ixion X150',
+    13 => 'Ixion ML350',
+    14 => 'Ixion M355',
+    15 => 'Ixion M245',
+    16 => 'Ixion MS250',
+    17 => 'Ixion XL155',
+    18 => 'Ixion MS255',
+    19 => 'Ixion M750',
+    20 => 'Ixion M345',
+    21 => 'Ixion ES260',
+    22 => 'Ixion ES150',
+    23 => 'Ixion P350',
+    24 => 'Ixion ES550',
+    25 => 'Ixion EL350',
+    26 => 'Ixion ML250',
+    27 => 'Ixion MS550',
+    28 => 'Ixion ES850',
+    29 => 'Ixion M240',
+    30 => 'Ixion MS450',
+    31 => 'Ixion ES355',
+    32 => 'IX365',
+  ),
+  '@J5' => 
+  array (
+    0 => 'J5',
+  ),
+  '@J7' => 
+  array (
+    0 => 'J7',
+  ),
+  '@J9' => 
+  array (
+    0 => 'J9210',
+    1 => 'J9110',
   ),
   '@JA' => 
   array (
     0 => 'Jaguar3',
     1 => 'Jaguar7',
+    2 => 'JAT-LX1',
+    3 => 'JAT-L41',
+    4 => 'JAT-L29',
+    5 => 'JAZZ',
   ),
   '@JC' => 
   array (
@@ -3121,11 +4217,13 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => 'JDN-W09',
     1 => 'JDN2-AL00HN',
     2 => 'JDN2-W09HN',
+    3 => 'JDN2-L09',
   ),
   '@JI' => 
   array (
     0 => '(JIAYU|JY)!!',
     1 => 'JIMMY',
+    2 => 'JINGA BASCO L1',
   ),
   '@JJ' => 
   array (
@@ -3134,16 +4232,29 @@ DeviceModels::$ANDROID_INDEX = array (
   '@JK' => 
   array (
     0 => '(HW-|HUAWEI )?(ATU|DRA|FLA|JKM|TIT|TAG||MRD|NCE|POT|TRT|SLA)!!',
+    1 => 'JK 960 3G',
   ),
   '@JM' => 
   array (
     0 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
+  ),
+  '@JN' => 
+  array (
+    0 => 'JNY-LX1',
+    1 => 'JNY-LX2',
   ),
   '@JO' => 
   array (
     0 => 'Jolla',
     1 => 'Joy',
     2 => 'JOIN',
+    3 => 'JoyPRO',
+    4 => 'Joy HG5024M',
+    5 => 'JOY JD5546G',
+    6 => 'Joy HH5524A',
+    7 => 'Joy 2+',
+    8 => 'Joy 4',
+    9 => 'Joy 3+',
   ),
   '@JS' => 
   array (
@@ -3207,6 +4318,18 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => 'K11',
     1 => 'K1',
     2 => 'K10000 Pro',
+    3 => 'K18',
+    4 => 'K10',
+    5 => 'K10000 Mix',
+    6 => 'K10000 Max',
+    7 => 'K10000',
+    8 => 'K12',
+    9 => 'K107',
+  ),
+  '@K2' => 
+  array (
+    0 => 'K21',
+    1 => 'K20 pro',
   ),
   '@K3' => 
   array (
@@ -3214,14 +4337,45 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'K30-T',
     2 => 'K30-W',
     3 => 'K3 Note',
+    4 => 'K350t',
+    5 => 'K3 Pro',
+    6 => 'K3DX-V5G',
+  ),
+  '@K4' => 
+  array (
+    0 => 'K4000 Lite',
+    1 => 'K4000 PRO',
+    2 => 'K4000 Plus',
+  ),
+  '@K5' => 
+  array (
+    0 => 'K5000',
+    1 => 'K500 LTE',
+  ),
+  '@K6' => 
+  array (
+    0 => 'K6000',
+    1 => 'K6000 Pro',
+    2 => 'K6',
+    3 => 'K6000 Plus',
+  ),
+  '@K7' => 
+  array (
+    0 => 'K7',
+    1 => 'K7000',
+    2 => 'K7 Power',
+    3 => 'K7 Pro',
   ),
   '@K8' => 
   array (
     0 => '(CUBE ?)?(K8|U1|U2|U3|U5|U6|U8|U9)[0-9]?GT!!',
+    1 => 'K88',
   ),
   '@K9' => 
   array (
     0 => 'K9 Smart 4G',
+    1 => 'K900',
+    2 => 'K9',
   ),
   '@KA' => 
   array (
@@ -3235,6 +4389,9 @@ DeviceModels::$ANDROID_INDEX = array (
   '@KB' => 
   array (
     0 => 'KB901',
+    1 => 'KB2003',
+    2 => 'KB2001',
+    3 => 'KB2000',
   ),
   '@KC' => 
   array (
@@ -3247,6 +4404,9 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'KENEKSI!!',
     1 => 'kenzo',
+    2 => 'KENEKSI Norma 2',
+    3 => 'KENEKSI-Dream',
+    4 => 'KENEKSI liberty',
   ),
   '@KF' => 
   array (
@@ -3269,6 +4429,7 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => 'KFSUWI',
     17 => 'KFMAWI',
     18 => 'KFMUWI',
+    19 => 'KFKAWI',
   ),
   '@KI' => 
   array (
@@ -3278,10 +4439,19 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'KIOTO 793',
     4 => 'KITE',
     5 => '(ZTE )?Kis!!',
+    6 => 'KINGKONG MINI',
+    7 => 'KING KONG 3',
+    8 => 'KINGKONG 5 Pro',
+    9 => 'KIICAA POWER',
+    10 => 'KIICAA MIX',
+    11 => 'KII PRO',
+    12 => 'KING 7S',
+    13 => 'KING 7',
   ),
   '@KM' => 
   array (
     0 => '(EV|KM)-[ES][0-9]{3,3}!!',
+    1 => 'KM1069',
   ),
   '@KN' => 
   array (
@@ -3298,15 +4468,27 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'Koobe!!',
     7 => 'KORIDY H15',
     8 => 'KORIDY H16',
+    9 => 'KOB2-W09',
+    10 => 'KOB2-L09',
   ),
   '@KP' => 
   array (
     0 => 'KPT!!',
     1 => 'KPN!!',
   ),
+  '@KR' => 
+  array (
+    0 => 'KRJ-W09',
+  ),
   '@KS' => 
   array (
     0 => 'KSP8000',
+    1 => 'KSA-LX9',
+    2 => 'KSA-AL00',
+  ),
+  '@KT' => 
+  array (
+    0 => 'KT107',
   ),
   '@KU' => 
   array (
@@ -3314,6 +4496,10 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'KU9500',
     2 => 'KUNO4',
     3 => 'KUNO 4+',
+  ),
+  '@KX' => 
+  array (
+    0 => 'KX20',
   ),
   '@KY' => 
   array (
@@ -3333,9 +4519,27 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'L-0[0-9][A-Z]!!',
   ),
+  '@L0' => 
+  array (
+    0 => 'L001',
+  ),
+  '@L1' => 
+  array (
+    0 => 'L180',
+    1 => 'L170',
+  ),
+  '@L2' => 
+  array (
+    0 => 'L270',
+    1 => 'L210',
+  ),
   '@L3' => 
   array (
     0 => 'L3',
+  ),
+  '@L7' => 
+  array (
+    0 => 'L78071',
   ),
   '@L9' => 
   array (
@@ -3373,6 +4577,7 @@ DeviceModels::$ANDROID_INDEX = array (
     27 => 'LA3-W',
     28 => 'LA3S',
     29 => 'LA5-W',
+    30 => 'Laude M8',
   ),
   '@LC' => 
   array (
@@ -3506,6 +4711,98 @@ DeviceModels::$ANDROID_INDEX = array (
     114 => 'LENNY',
     115 => 'LENNY2',
     116 => 'LENNY3',
+    117 => 'LEX722',
+    118 => 'LEX622',
+    119 => 'LEX727',
+    120 => 'Le2 X527',
+    121 => 'LEX653',
+    122 => 'LeEco Max2',
+    123 => 'LeEco Le 2',
+    124 => 'Le X52x',
+    125 => 'Le2 x527',
+    126 => 'Le X626',
+    127 => 'LEX651',
+    128 => 'LEX620',
+    129 => 'Le2 x522',
+    130 => 'LEX6500',
+    131 => 'LEX650',
+    132 => 'LEAGOO M8',
+    133 => 'LEAGOO Z5',
+    134 => 'LEAGOO M5',
+    135 => 'Lenovo TB-8504X',
+    136 => 'Lenovo L78071',
+    137 => 'Lenovo TB-X304L',
+    138 => 'Lenovo L38011',
+    139 => 'Lenovo L38012',
+    140 => 'Lenovo K520',
+    141 => 'Lenovo L38111',
+    142 => 'Lenovo L38041',
+    143 => 'Lenovo L18021',
+    144 => 'Lenovo TB-X605L',
+    145 => 'Lenovo TB-7104I',
+    146 => 'Lenovo YT3-X50M',
+    147 => 'Lenovo TB-8703X',
+    148 => 'Lenovo TB-8704X',
+    149 => 'Lenovo TB-7305I',
+    150 => 'Lenovo TB-X505X',
+    151 => 'Lenovo TB-X505L',
+    152 => 'Lenovo TB-7504X',
+    153 => 'Lenovo S1La40',
+    154 => 'Lenovo L78051',
+    155 => 'Lenovo L58041',
+    156 => 'Lenovo YT-X705L',
+    157 => 'Lenovo TB-7104F',
+    158 => 'Lenovo TB-X104F',
+    159 => 'Lenovo TB-X505F',
+    160 => 'Lenovo L78011',
+    161 => 'Lenovo TB-8304F1',
+    162 => 'Lenovo YT3-850M',
+    163 => 'Lenovo TB-X606F',
+    164 => 'Lenovo K320t',
+    165 => 'Lenovo TB-8505F',
+    166 => 'Lenovo L39051',
+    167 => 'Lenovo L38043',
+    168 => 'Lenovo PB-6505M',
+    169 => 'Lenovo PB2-650M',
+    170 => 'Lenovo L78032',
+    171 => 'Lenovo TB-7304I',
+    172 => 'Lenovo TB-X606X',
+    173 => 'Lenovo TB-8505X',
+    174 => 'Lenovo PB-6505MC',
+    175 => 'Lenovo L19041',
+    176 => 'Lenovo PB2-690Y',
+    177 => 'Lenovo TB-X705F',
+    178 => 'Lenovo TB-8705F',
+    179 => 'Lenovo L78121',
+    180 => 'Lenovo YT-X705F',
+    181 => 'Lenovo A1000m',
+    182 => 'Lenovo TB-7304X',
+    183 => 'Lenovo YT-X705X',
+    184 => 'Lenovo TB-7305X',
+    185 => 'Lenovo TB-X306F',
+    186 => 'Lenovo TB-X605F',
+    187 => 'Lenovo TB-J606F',
+    188 => 'Lenovo TB-X306X',
+    189 => 'Lenovo TB-X705L',
+    190 => 'Lenovo YT-X703L',
+    191 => 'Lenovo S90A',
+    192 => 'Lenovo K10 Note',
+    193 => 'Lenovo TB-J606L',
+    194 => 'Lenovo A-1000',
+    195 => 'Lenovo YT3-850L',
+    196 => 'Lenovo K52e78',
+    197 => 'Lenovo K5 Play',
+    198 => 'Lenovo K33',
+    199 => 'Lenovo P70-A otido2010 for 4pda',
+    200 => 'Lenovo K9 Note',
+    201 => 'Lenovo TB-X104L',
+    202 => 'Lenovo Vibe Z2',
+    203 => 'LEX625',
+    204 => 'LE2110',
+    205 => 'LE2123',
+    206 => 'LE2120',
+    207 => 'Lenny4 Plus',
+    208 => 'Lenny4',
   ),
   '@LG' => 
   array (
@@ -3577,6 +4874,7 @@ DeviceModels::$ANDROID_INDEX = array (
     65 => 'LG-P999',
     66 => 'LG-E739',
     67 => 'LG-C800',
+    68 => 'LGUS997',
   ),
   '@LI' => 
   array (
@@ -3593,6 +4891,28 @@ DeviceModels::$ANDROID_INDEX = array (
     10 => 'Light Tab',
     11 => 'Light Tab 2',
     12 => 'Light Tab 2W',
+    13 => 'Light A103',
+    14 => 'Linx X1 PRO 3G LS4051MG',
+    15 => 'LINX JOY 3G LT5048MG',
+    16 => 'LINX ATOM 3G LT4049PG',
+    17 => 'Linx Base 4G LT5052ML',
+    18 => 'Linx Pay 4G LS5053ML',
+    19 => 'LINX B510 3G LT5037MG',
+    20 => 'LINX A453 3G LT4038PG',
+    21 => 'LINX TRIX 4G LS5041PL',
+    22 => 'Linx C500 3G LT5001PG',
+    23 => 'Linx Argo 3G LT4054MG',
+    24 => 'Life Geo',
+    25 => 'Life Zen',
+    26 => 'Life Compact 4G',
+    27 => 'Life Jet',
+    28 => 'Life Ace',
+    29 => 'LIVE 6plus',
+    30 => 'LIVE 7',
+    31 => 'LINX RAGE 4G LS5040PL',
+    32 => 'Lion Dual',
+    33 => 'Lion DC',
+    34 => 'Live',
   ),
   '@LL' => 
   array (
@@ -3630,16 +4950,39 @@ DeviceModels::$ANDROID_INDEX = array (
     26 => 'LM-X525!',
     27 => 'LM-X625!',
     28 => 'LM-Y110!',
+    29 => 'LM-X430',
+    30 => 'LM-X520',
+    31 => 'LM-G850',
+    32 => 'LM-Q510N',
+    33 => 'LM-G900',
+    34 => 'LM-X540',
+    35 => 'LM-G900N',
+    36 => 'LM-K510',
+    37 => 'LM-V510N',
+    38 => 'LM-G910',
+    39 => 'LM-Q630',
+    40 => 'LM-F100',
+    41 => 'LM-K500',
+  ),
+  '@LN' => 
+  array (
+    0 => 'LND-L29',
   ),
   '@LO' => 
   array (
     0 => 'LogicPD Zoom2',
     1 => '(HUAWEI )?(ALP|BLA|CRR|EVR|HMA|LIO|LON|LYA|MATE|MHA|MT1|MT2|MT7|M200|NXT|SNE|TAS|Z100)!!',
     2 => 'Loox',
+    3 => 'London',
+  ),
+  '@LP' => 
+  array (
+    0 => 'LP N-37',
   ),
   '@LR' => 
   array (
     0 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
+    1 => 'LRA-LX1',
   ),
   '@LS' => 
   array (
@@ -3708,6 +5051,11 @@ DeviceModels::$ANDROID_INDEX = array (
     14 => 'Luna TAB474',
     15 => 'Luna TAB10-150',
     16 => 'Luno',
+    17 => 'Lumigon T3',
+    18 => 'Luck',
+    19 => 'Luck L120 4G',
+    20 => 'Luck L100 3G',
+    21 => 'LUNA II',
   ),
   '@LY' => 
   array (
@@ -3715,6 +5063,10 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(HW-|HUAWEI )?(CRO|LUA|CUN|SCC|SCU|CAM|LDN|LYO|MYA)!!',
     2 => 'LYF LS-4006',
     3 => 'LYF LS-5009',
+  ),
+  '@LZ' => 
+  array (
+    0 => 'LZ6',
   ),
   '@M' => 
   array (
@@ -3724,6 +5076,7 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'M POP 5020A',
     1 => 'M POP',
+    2 => 'M A5',
   ),
   '@M-' => 
   array (
@@ -3752,6 +5105,16 @@ DeviceModels::$ANDROID_INDEX = array (
     5 => 'm1 note',
     6 => 'M1001',
     7 => 'M12',
+    8 => 'M10',
+    9 => 'M15',
+    10 => 'M13',
+    11 => 'M11',
+    12 => 'M10 Ultra',
+    13 => 'M1852',
+    14 => 'M1822',
+    15 => 'M1E',
+    16 => 'M102',
+    17 => 'M1908C3JGG',
   ),
   '@M2' => 
   array (
@@ -3760,6 +5123,42 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'm2 note',
     3 => 'm2',
     4 => 'M2mini',
+    5 => 'M200H',
+    6 => 'M2103K19PG',
+    7 => 'M2101K7BI',
+    8 => 'M20 4G',
+    9 => 'M2003J15SC',
+    10 => 'M2004J19C',
+    11 => 'M2006C3LG',
+    12 => 'M2002J9G',
+    13 => 'M2006C3MNG',
+    14 => 'M2006C3MG',
+    15 => 'M2007J20CG',
+    16 => 'M2007J3SG',
+    17 => 'M2007J3SY',
+    18 => 'M2010J19CG',
+    19 => 'M2007J17G',
+    20 => 'M2006C3LC',
+    21 => 'M2002J9E',
+    22 => 'M2006C3LI',
+    23 => 'M2006C3LVG',
+    24 => 'M2007J22G',
+    25 => 'M2007J20CT',
+    26 => 'M2010J19SG',
+    27 => 'M2006J10C',
+    28 => 'M2007J1SC',
+    29 => 'M2011K2G',
+    30 => 'M2010J19SY',
+    31 => 'M2101K7AG',
+    32 => 'M2101K6G',
+    33 => 'M2101K9AG',
+    34 => 'M2102J20SG',
+    35 => 'M2012K11AG',
+    36 => 'M2101K7BNY',
+    37 => 'M2101K7BG',
+    38 => 'M2103K19G',
+    39 => 'M2006C3MII',
+    40 => 'M2103K19PY',
   ),
   '@M3' => 
   array (
@@ -3777,6 +5176,11 @@ DeviceModels::$ANDROID_INDEX = array (
     11 => 'M353',
     12 => 'M355',
     13 => 'M356',
+    14 => 'M3 Max',
+    15 => 'M3E',
+    16 => 'M3X',
+    17 => 'M3 s',
+    18 => 'M30 Pro ROW',
   ),
   '@M4' => 
   array (
@@ -3785,6 +5189,8 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'M470BSE',
     3 => 'M4',
     4 => 'M4(TEL)? SS[0-9]{3,4}!!',
+    5 => 'M40 ROW',
+    6 => 'M40 EEA',
   ),
   '@M5' => 
   array (
@@ -3795,6 +5201,17 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'M5 Note',
     5 => 'M578C',
     6 => 'M5',
+    7 => 'M5 EDGE',
+    8 => 'M5s',
+    9 => 'M5c',
+    10 => 'M576',
+    11 => 'M5S',
+    12 => 'M558',
+    13 => 'M555i',
+    14 => 'M556',
+    15 => 'M512',
+    16 => 'M520',
+    17 => 'M578',
   ),
   '@M6' => 
   array (
@@ -3803,6 +5220,10 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'M660',
     3 => 'M6 Note',
     4 => 'M6',
+    5 => 'M653',
+    6 => 'M6T',
+    7 => 'M6Note',
+    8 => 'M655',
   ),
   '@M7' => 
   array (
@@ -3814,6 +5235,8 @@ DeviceModels::$ANDROID_INDEX = array (
     5 => 'M785',
     6 => 'M726HC',
     7 => 'M70014',
+    8 => 'M7',
+    9 => 'M7 EEA',
   ),
   '@M8' => 
   array (
@@ -3826,6 +5249,9 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'M886',
     7 => 'M8',
     8 => 'M8 pro',
+    9 => 'M8S PRO W',
+    10 => 'M8S MAX',
+    11 => 'M89',
   ),
   '@M9' => 
   array (
@@ -3857,6 +5283,16 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => '(Xiaomi )?(MI )?MAX 3$!',
     17 => 'markf',
     18 => 'markw',
+    19 => 'Maya',
+    20 => 'Mate 20 Pro',
+    21 => 'Mate X',
+    22 => 'MAR-LX1H',
+    23 => 'MAR-LX1B',
+    24 => 'Maxvi MS401',
+    25 => 'Mars pro',
+    26 => 'Magnet G50',
+    27 => 'Max2',
+    28 => 'Max3',
   ),
   '@MB' => 
   array (
@@ -3919,6 +5355,20 @@ DeviceModels::$ANDROID_INDEX = array (
     34 => 'MegaFon V9+',
     35 => 'MegaFon SIM+',
     36 => 'MegaFon Login 3',
+    37 => 'MED-LX9N',
+    38 => 'meizu note9',
+    39 => 'MEIZU M6',
+    40 => 'meizu note8',
+    41 => 'meizu X8',
+    42 => 'meizu C9',
+    43 => 'Meizu M6s',
+    44 => 'meizu M8',
+    45 => 'Meizu M8c',
+    46 => 'meizu M10',
+    47 => 'meizu 16Xs',
+    48 => 'meizu C9 pro',
+    49 => 'meizu M8 lite',
+    50 => 'Meizu 6T',
   ),
   '@MF' => 
   array (
@@ -3926,6 +5376,7 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(DNS )?(Airtab )?(E|ES|M|MA|MC|MF|MW|P|PC|PF)[0-9]{2,4}!!',
     2 => 'MFC[0-9]!!',
     3 => 'MF97B',
+    4 => 'MFLogin3T',
   ),
   '@MH' => 
   array (
@@ -3989,6 +5440,55 @@ DeviceModels::$ANDROID_INDEX = array (
     52 => '(Xiaomi|Xiaomi Mi|MI)Box!!',
     53 => '(Xiaomi|Xiaomi Mi|MI)TV!!',
     54 => '(ZTE )?(Grand|Mimosa)!!',
+    55 => 'MIX Lite',
+    56 => 'MIX2',
+    57 => 'MiniTV 3G',
+    58 => 'Micromax Q409',
+    59 => 'Micromax Q440',
+    60 => 'Micromax Q397',
+    61 => 'Micromax Q402+',
+    62 => 'Micromax Q354',
+    63 => 'Micromax Q4202',
+    64 => 'Micromax Q3551',
+    65 => 'Micromax Q398',
+    66 => 'Micromax D333',
+    67 => 'Micromax C1A',
+    68 => 'Micromax Q402',
+    69 => 'Micromax Q462',
+    70 => 'Micromax Q4310',
+    71 => 'Micromax Q351',
+    72 => 'Micromax Q357',
+    73 => 'Micromax Q4151',
+    74 => 'Micromax Q479',
+    75 => 'Micromax Q421',
+    76 => 'MI 8 Pro',
+    77 => 'MI PLAY',
+    78 => 'Mi 9 SE',
+    79 => 'Mi 9T',
+    80 => 'MI PAD 4 PLUS',
+    81 => 'Mi Note 10 Pro',
+    82 => 'Mi 9 Lite',
+    83 => 'Mi MIX 3',
+    84 => 'MI PAD 4',
+    85 => 'Mi Note 10',
+    86 => 'MI 9 Lite',
+    87 => 'MI 9T',
+    88 => 'MI CC 9',
+    89 => 'MI 9 Transparent Edition',
+    90 => 'Mi MIX 3 5G',
+    91 => 'MI CC 9e',
+    92 => 'MIBOX4',
+    93 => 'MI 9 SE',
+    94 => 'Mi Note 10 Lite',
+    95 => 'Mi 10 Pro',
+    96 => 'Mi 10',
+    97 => 'Mi 10 Lite 5G',
+    98 => 'Mi 10T',
+    99 => 'MI Note 10',
+    100 => 'MI 8 Explorer Edition',
+    101 => 'Mi 10T Pro',
+    102 => 'MiTV-MSSP1',
+    103 => 'Mi A2 (AOSP',
   ),
   '@MK' => 
   array (
@@ -4008,6 +5508,7 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => '(HW-|HUAWEI )?MLA-(AL00|AL10)!',
     2 => '(HW-|HUAWEI )?MLA-(TL00|TL10|UL00)!',
     3 => 'MLLED!!',
+    4 => 'ML450',
   ),
   '@MM' => 
   array (
@@ -4105,6 +5606,30 @@ DeviceModels::$ANDROID_INDEX = array (
     87 => 'Movistar Motion',
     88 => 'Movistar Prime',
     89 => 'MOVE',
+    90 => 'MOA-LX9N',
+    91 => 'MOVE 8',
+    92 => 'MOVE 7',
+    93 => 'moto z3',
+    94 => 'moto e(6',
+    95 => 'Moto E (4',
+    96 => 'moto e5',
+    97 => 'Moto Z (2',
+    98 => 'moto e5 plus',
+    99 => 'Moto G5 Plus (XT1685',
+    100 => 'moto e(6) plus',
+    101 => 'Moto Z3 Play',
+    102 => 'motorola one fusion+',
+    103 => 'moto e6s',
+    104 => 'moto g(9',
+    105 => 'moto e6 play',
+    106 => 'moto g(9) plus',
+    107 => 'moto g(8)',
+    108 => 'motorola one fusion',
+    109 => 'moto e(7',
+    110 => 'motorola edge plus',
+    111 => 'moto g 5G plus',
+    112 => 'Moto Z² FORCE',
+    113 => 'Moto e5 plus',
   ),
   '@MP' => 
   array (
@@ -4131,6 +5656,9 @@ DeviceModels::$ANDROID_INDEX = array (
   '@MR' => 
   array (
     0 => '(HW-|HUAWEI )?(ATU|DRA|FLA|JKM|TIT|TAG||MRD|NCE|POT|TRT|SLA)!!',
+    1 => 'MRX-AL09',
+    2 => 'MRX-W09',
+    3 => 'MRX-W29',
   ),
   '@MS' => 
   array (
@@ -4154,6 +5682,11 @@ DeviceModels::$ANDROID_INDEX = array (
     17 => 'MS3B',
     18 => 'MS4A',
     19 => 'MS3A',
+    20 => 'MS650',
+    21 => 'MS550',
+    22 => 'MS502 Orion',
+    23 => 'MStar Android TV',
+    24 => 'MSP95012',
   ),
   '@MT' => 
   array (
@@ -4239,6 +5772,7 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'MX4 Pro',
     4 => 'MX5',
     5 => 'MX6',
+    6 => 'MX Base',
   ),
   '@MY' => 
   array (
@@ -4301,6 +5835,7 @@ DeviceModels::$ANDROID_INDEX = array (
     56 => 'My ?Touch ?4G$!',
     57 => 'myTouch 4G Slide',
     58 => 'myTouch Slide 4G',
+    59 => 'MYA-U29',
   ),
   '@MZ' => 
   array (
@@ -4313,6 +5848,40 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'MZ-MX4 Pro',
     7 => 'MZ-MX5',
     8 => 'MZ[0-9]{3,3}!!',
+    9 => 'MZ-LLD-L31',
+    10 => 'MZ-15 Plus',
+    11 => 'MZ-M5s',
+    12 => 'MZ-M3s',
+    13 => 'MZ-M5c',
+    14 => 'MZ-M5 Note',
+    15 => 'MZ-MEIZU M5',
+    16 => 'MZ-M6 Note',
+    17 => 'MZ-m2',
+    18 => 'MZ-U20',
+    19 => 'MZ-PRO 6',
+    20 => 'MZ-PRO 7 Plus',
+    21 => 'MZ-Meizu M6s',
+    22 => 'MZ-meizu M8 lite',
+    23 => 'MZ-16th',
+    24 => 'MZ-U10',
+    25 => 'MZ-M15',
+    26 => 'MZ-M6T',
+    27 => 'MZ-MX6',
+    28 => 'MZ-PRO 7',
+    29 => 'MZ-meizu X8',
+    30 => 'MZ-meizu M8',
+    31 => 'MZ-Meizu 6T',
+    32 => 'MZ-Meizu S6',
+    33 => 'MZ-M3 Max',
+    34 => 'MZ-PRO 7-H',
+    35 => 'MZ-Meizu M8c',
+    36 => 'MZ-meizu note8',
+    37 => 'MZ-PRO 6 Plus',
+    38 => 'MZ-meizu C9',
+    39 => 'MZ-M3E',
+    40 => 'MZ-15 Lite',
+    41 => 'MZ-meizu note9',
+    42 => 'MZ-M6',
   ),
   '@N-' => 
   array (
@@ -4324,15 +5893,32 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'N12',
     2 => 'N12R',
     3 => 'N101 DUAL CORE!',
+    4 => 'N1 550 Cruiser',
+    5 => 'N100',
+    6 => 'N180i',
+    7 => 'N10',
   ),
   '@N2' => 
   array (
     0 => 'N2T',
+    1 => 'N210',
+    2 => 'N20',
+    3 => 'N20Pro',
+    4 => 'N280i',
+    5 => 'N280',
   ),
   '@N3' => 
   array (
     0 => 'N3-2200',
     1 => 'N320',
+    2 => 'N370',
+    3 => 'N30',
+    4 => 'N310',
+  ),
+  '@N4' => 
+  array (
+    0 => 'N470',
+    1 => 'N410',
   ),
   '@N5' => 
   array (
@@ -4343,6 +5929,7 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'N50DT!',
     5 => 'N50GT',
     6 => 'N50GT A',
+    7 => 'N570',
   ),
   '@N6' => 
   array (
@@ -4390,12 +5977,19 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'NaviPad TM-7858 3G (revision 1)',
     4 => 'natrium',
     5 => 'NATCOM N8302',
+    6 => 'NAVITEL T700 3G NAVI',
   ),
   '@NB' => 
   array (
     0 => 'NB036',
     1 => 'NBX-T7013N',
     2 => 'NBX-T7023N',
+    3 => 'NB107',
+    4 => 'NB75',
+    5 => 'NB751',
+    6 => 'NB961',
+    7 => 'NB106M',
+    8 => 'NB102',
   ),
   '@NC' => 
   array (
@@ -4489,6 +6083,32 @@ DeviceModels::$ANDROID_INDEX = array (
     83 => 'New Andromax-i',
     84 => 'Neo V',
     85 => 'NEBULA6.9',
+    86 => 'NEO-L29',
+    87 => 'NEOSR620',
+    88 => 'NEOSC600',
+    89 => 'Neffos X1 Max',
+    90 => 'Neffos X1 Lite',
+    91 => 'Neffos X9',
+    92 => 'Neffos X1',
+    93 => 'Neffos Y5s',
+    94 => 'Neffos X20 Pro',
+    95 => 'Neffos C5a',
+    96 => 'Neffos C5 Plus',
+    97 => 'Neffos C5',
+    98 => 'Neffos C5 Max',
+    99 => 'Neffos C5s',
+    100 => 'Neffos Y5L',
+    101 => 'Neffos C9A',
+    102 => 'Neffos C7s',
+    103 => 'Neffos C9 Max',
+    104 => 'Neffos C9',
+    105 => 'Neffos C7',
+    106 => 'Neffos X20',
+    107 => 'Neffos C9s',
+    108 => 'Neffos C7 Lite',
+    109 => 'Neffos Y5',
+    110 => 'Neffos C7A',
+    111 => 'Neffos A5',
   ),
   '@NG' => 
   array (
@@ -4623,6 +6243,42 @@ DeviceModels::$ANDROID_INDEX = array (
     88 => 'Nozomi',
     89 => 'Noble TAB07-485',
     90 => '(QMobile|QTab|Q-Smart|Noir)!!',
+    91 => 'NOTE 20',
+    92 => 'NOTE 20 PRO',
+    93 => 'NOTE 7',
+    94 => 'NOTE 10',
+    95 => 'nova4',
+    96 => 'Nova Pro',
+    97 => 'Note9',
+    98 => 'NOA N2',
+    99 => 'NOA H8se',
+    100 => 'NOS NOVU II',
+    101 => 'nowa6 Pro',
+    102 => 'Nobby X800',
+    103 => 'Nobby S300 Pro',
+    104 => 'Nomi I4070',
+    105 => 'Nomi i5010',
+    106 => 'Nomi i504',
+    107 => 'Nomi i507',
+    108 => 'Nomi i5011',
+    109 => 'Nomi C070010',
+    110 => 'Nomi i4510',
+    111 => 'Nomi i451',
+    112 => 'Nomi i5710',
+    113 => 'Nomi C070044',
+    114 => 'Nomi C101034',
+    115 => 'Nomi C08000',
+    116 => 'Nomi C101014',
+    117 => 'Nomi i6030',
+    118 => 'Nomi i5001',
+    119 => 'Nomi i5730',
+    120 => 'Note 4',
+    121 => 'Note10',
+    122 => 'Nonchers',
+    123 => 'Note 7P',
+    124 => 'Note 8P',
+    125 => 'Note 9P',
+    126 => 'Note 11 Pro',
   ),
   '@NP' => 
   array (
@@ -4635,6 +6291,10 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'NS-14T002',
     3 => 'NS-13T001',
     4 => 'NSZ-G[A-Z][0-9]!!',
+    5 => 'NS-P16AT10',
+    6 => 'NS5004',
+    7 => 'NS5006',
+    8 => 'NS5005',
   ),
   '@NT' => 
   array (
@@ -4649,6 +6309,15 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'nubia Z5',
     5 => 'Nubia Z9 Max',
     6 => 'Nura 2',
+    7 => 'Numy3G AX10',
+    8 => 'NUMY4GGaea',
+    9 => 'Nubia Z11 mini s',
+  ),
+  '@NV' => 
+  array (
+    0 => 'NV501WAC',
+    1 => 'NV510WB',
+    2 => 'NV711WAC',
   ),
   '@NW' => 
   array (
@@ -4678,6 +6347,24 @@ DeviceModels::$ANDROID_INDEX = array (
     19 => 'NX785QC8G',
     20 => 'NXM900MC',
     21 => '(ZXY-)?NX[0-9]{2,3}!!',
+    22 => 'NX591J',
+    23 => 'NX551J',
+    24 => 'NX597J',
+    25 => 'NX541J',
+    26 => 'NX589J',
+    27 => 'NX569J',
+    28 => 'NX573J',
+    29 => 'NX595J',
+    30 => 'NX612J',
+    31 => 'NX629J',
+    32 => 'NX575J',
+    33 => 'NX609J',
+    34 => 'NX619J',
+    35 => 'NX659J',
+    36 => 'NX907J',
+    37 => 'NX616J',
+    38 => 'NX651J',
+    39 => 'NX608J',
   ),
   '@NY' => 
   array (
@@ -4700,6 +6387,7 @@ DeviceModels::$ANDROID_INDEX = array (
   '@OC' => 
   array (
     0 => '(AC|BC|LC|MT|RC|QS|VM|TS|OC)[0-9]{4,4}[A-Z]!!',
+    1 => 'OC106',
   ),
   '@OD' => 
   array (
@@ -4902,6 +6590,9 @@ DeviceModels::$ANDROID_INDEX = array (
     152 => 'ONDA v975m',
     153 => 'ONDA V989',
     154 => 'ONDA V989 Core8',
+    155 => 'One Max',
+    156 => 'OnePlus 7 Pro',
+    157 => 'One Pro',
   ),
   '@OP' => 
   array (
@@ -5013,6 +6704,19 @@ DeviceModels::$ANDROID_INDEX = array (
     105 => 'Optimus San Francisco',
     106 => 'Optimus San Remo',
     107 => 'Optimus Zali',
+    108 => 'Optima 1028 3G TS1215PG',
+    109 => 'Optima 7018N 4G TS7179ML',
+    110 => 'Optima 1023N 3G TS1186MG',
+    111 => 'Optima 1507 3G TS1085MG',
+    112 => 'Optima 7.07 3G TT7007MG',
+    113 => 'Optima 1026N 3G TT1192PG',
+    114 => 'Optima 1025N 4G TS1190ML',
+    115 => 'Optima 10 Z802 4G TS1229PL',
+    116 => 'Optima 1022N 3G TS1184MG',
+    117 => 'Optima Prime 4 3G TT7174PG',
+    118 => 'Optima 7017N 3G TS7177MG',
+    119 => 'Optim4G',
+    120 => 'Optima 1100 3G TT1046PG',
   ),
   '@OR' => 
   array (
@@ -5046,6 +6750,11 @@ DeviceModels::$ANDROID_INDEX = array (
     27 => 'Orange Yomi',
     28 => 'Orange Yumo',
     29 => 'Orange Zali',
+    30 => 'Orange-Dive72',
+  ),
+  '@OS' => 
+  array (
+    0 => 'OS105',
   ),
   '@OT' => 
   array (
@@ -5059,10 +6768,12 @@ DeviceModels::$ANDROID_INDEX = array (
   '@OU' => 
   array (
     0 => 'OUYA( Console)?!',
+    1 => 'OUKITEL C2',
   ),
   '@OV' => 
   array (
     0 => '(OV-|Overmax|Vertis)!!',
+    1 => 'OV10273G',
   ),
   '@OX' => 
   array (
@@ -5083,6 +6794,7 @@ DeviceModels::$ANDROID_INDEX = array (
   '@OZ' => 
   array (
     0 => 'OZZY',
+    1 => 'OzoneHD Fun',
   ),
   '@P' => 
   array (
@@ -5111,6 +6823,11 @@ DeviceModels::$ANDROID_INDEX = array (
     14 => 'P022',
     15 => 'P023',
     16 => 'P024',
+    17 => 'P00L',
+    18 => 'P027',
+    19 => 'P00A',
+    20 => 'P028',
+    21 => 'P008',
   ),
   '@P1' => 
   array (
@@ -5126,12 +6843,23 @@ DeviceModels::$ANDROID_INDEX = array (
     9 => 'P11HD四核(G9X7)',
     10 => 'P19HD(E1K3)',
     11 => 'P19HD(E1K5)',
+    12 => 'P10000 Pro',
+    13 => 'P11',
+    14 => 'P1 Pro',
+    15 => 'P10',
+    16 => 'P10 HD EEA',
+    17 => 'P10 Pro',
   ),
   '@P2' => 
   array (
     0 => 'P2A700',
     1 => 'P2Lite',
     2 => '(HW-|HUAWEI )?(ALE|ANE|CLT|D2|DAV|ELE|EML|EVA|FIG|G6|G7|GRA|M100|P2|P6|P7|PRA|RIO|SC|Sophia|STK|VIE|VKY|VNS|VOG|VTR|WAS)!!',
+    3 => 'P2 Lite',
+    4 => 'P20 Pro',
+    5 => 'P2',
+    6 => 'P200',
+    7 => 'P20HD EEA',
   ),
   '@P3' => 
   array (
@@ -5139,12 +6867,22 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'P350X',
     2 => 'P360X',
     3 => 'P300(Funbook)',
+    4 => 'P30',
+    5 => 'P380i',
+    6 => 'P380',
+    7 => 'P3',
+    8 => 'P30 Pro',
+    9 => 'P36 Pro',
+    10 => 'P35 Pro',
   ),
   '@P4' => 
   array (
     0 => 'P4i',
     1 => 'P4',
     2 => 'P4D Sirius',
+    3 => 'P410',
+    4 => 'P40',
+    5 => 'P40 Pro+',
   ),
   '@P5' => 
   array (
@@ -5152,6 +6890,8 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'P5Life',
     2 => 'P5Life TM',
     3 => 'P5',
+    4 => 'P5 mini',
+    5 => 'P5L',
   ),
   '@P6' => 
   array (
@@ -5161,6 +6901,10 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'P6 Qmax',
     4 => 'P6 Quad',
     5 => '(HW-|HUAWEI )?(ALE|ANE|CLT|D2|DAV|ELE|EML|EVA|FIG|G6|G7|GRA|M100|P2|P6|P7|PRA|RIO|SC|Sophia|STK|VIE|VKY|VNS|VOG|VTR|WAS)!!',
+    6 => 'P6000',
+    7 => 'P6000 5.0 01',
+    8 => 'P600',
+    9 => 'P6000 Plus',
   ),
   '@P7' => 
   array (
@@ -5191,6 +6935,11 @@ DeviceModels::$ANDROID_INDEX = array (
     24 => 'P79HD(A3V9)',
     25 => 'P79HD 3G(C4K5)',
     26 => 'p7901a',
+    27 => 'P760',
+    28 => 'P771',
+    29 => 'P750i',
+    30 => 'P750',
+    31 => 'P790',
   ),
   '@P8' => 
   array (
@@ -5227,6 +6976,12 @@ DeviceModels::$ANDROID_INDEX = array (
     30 => 'P89 mini(E2W6)',
     31 => 'P89s(F8A5)',
     32 => 'P89s mini(F8A2)',
+    33 => 'P8 Life',
+    34 => 'P8 Mini',
+    35 => 'P8',
+    36 => 'P850',
+    37 => 'P80X EEA',
+    38 => 'P80h EEA',
   ),
   '@P9' => 
   array (
@@ -5247,6 +7002,8 @@ DeviceModels::$ANDROID_INDEX = array (
     14 => 'P98HD(A2Q6)',
     15 => 'P98HD+M6',
     16 => 'P98T(K3C4)',
+    17 => 'P9000',
+    18 => 'P9000 MAX',
   ),
   '@PA' => 
   array (
@@ -5288,6 +7045,9 @@ DeviceModels::$ANDROID_INDEX = array (
     35 => 'PATG7506HD',
     36 => 'PAP[0-9]{4,4}!!',
     37 => 'PAD1001',
+    38 => 'Pace 2 Lite',
+    39 => 'Pass3G',
+    40 => 'Paris',
   ),
   '@PB' => 
   array (
@@ -5300,6 +7060,7 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'PBEM00',
     7 => 'PBET00',
     8 => 'PBDM00',
+    9 => 'PBBM30',
   ),
   '@PC' => 
   array (
@@ -5317,11 +7078,15 @@ DeviceModels::$ANDROID_INDEX = array (
     11 => 'PCAM00',
     12 => 'PCAM10',
     13 => 'PCCM00',
+    14 => 'PCHM30',
+    15 => 'PCHM10',
+    16 => 'PCKM00',
   ),
   '@PD' => 
   array (
     0 => 'PD10-DYD',
     1 => 'PD6D1J',
+    2 => 'PDBM00',
   ),
   '@PE' => 
   array (
@@ -5330,6 +7095,9 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'Penta!!',
     3 => 'Pentagram!!',
     4 => 'pepper',
+    5 => 'People GT300',
+    6 => 'People G503',
+    7 => 'Perfeo PF A4552',
   ),
   '@PF' => 
   array (
@@ -5342,6 +7110,7 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'PG86100!',
     3 => 'PGM 398',
     4 => 'PGPS7795',
+    5 => 'PGN522',
   ),
   '@PH' => 
   array (
@@ -5409,6 +7178,19 @@ DeviceModels::$ANDROID_INDEX = array (
     61 => 'PHABLET 4S',
     62 => 'Phablet 4.5Q',
     63 => 'Phablet 5,3 Q',
+    64 => 'Photo Pro',
+    65 => 'PHICOMM E653(ENERGY L',
+    66 => 'Philips S318',
+    67 => 'Philips S561',
+    68 => 'Philips S386',
+    69 => 'Philips S327',
+    70 => 'Philips S395',
+    71 => 'Philips X818',
+    72 => 'Philips X586',
+    73 => 'Philips S257',
+    74 => 'Philips S260',
+    75 => 'Phone 2',
+    76 => 'Phone',
   ),
   '@PI' => 
   array (
@@ -5452,6 +7234,13 @@ DeviceModels::$ANDROID_INDEX = array (
     37 => 'PI7100 93',
     38 => '(PNR-)?Pioneer!!',
     39 => 'PIRANHA!!',
+    40 => 'Pixel 4a',
+    41 => 'Pixel 5',
+    42 => 'Pixel 4a (5G',
+    43 => 'PIC-LX9',
+    44 => 'PicassoNote',
+    45 => 'Pixus Raze',
+    46 => 'Pixus Blast',
   ),
   '@PJ' => 
   array (
@@ -5473,6 +7262,30 @@ DeviceModels::$ANDROID_INDEX = array (
     10 => 'Plus E',
     11 => 'Play 6X-1000',
     12 => 'Play8X-1100',
+    13 => 'Plane 1570N 3G PS1185MG',
+    14 => 'Plane 1512 3G PS1120MG',
+    15 => 'Plane 7594 3G PS7210PG',
+    16 => 'Plane 7565N 3G PS7180PG',
+    17 => 'Plane 9507M 3G PS9079MG',
+    18 => 'Plane 1584S 3G PS1201PG',
+    19 => 'Plane 1585S 4G PS1202PL',
+    20 => 'Plane 7547S 3G PS7159PG',
+    21 => 'Plane 9654M 3G PS9167PG',
+    22 => 'Plane 7.7 3G PS7007EG',
+    23 => 'Plane 1537E 3G PS1149MG',
+    24 => 'Plane 8021N 4G PS8183ML',
+    25 => 'Plane 1581 3G PS1200MG',
+    26 => 'Plane 1525 3G PS1137MG',
+    27 => 'Plane 8548S 3G PS8161PG',
+    28 => 'Plane 7556 3G PS7170MG',
+    29 => 'Plane 1550S 3G PS1163MG',
+    30 => 'Plane 8550S 4G PS8163PL',
+    31 => 'Plane 1715T 4G PT1139PL',
+    32 => 'Plane 7520 3G PS7133MG',
+    33 => 'Plane 1600 3G PS1036PG',
+    34 => 'Plane S7.0 3G PS7005MG',
+    35 => 'Playpad 3G GOO',
+    36 => 'Plane 1572N 3G PS1187MG',
   ),
   '@PM' => 
   array (
@@ -5481,6 +7294,51 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'PMID!!',
     3 => 'PMP[0-9]{4,4}!!',
     4 => 'PMT[0-9]{4,4}!!',
+    5 => 'PMT4117 3G',
+    6 => 'PMT4131 4G',
+    7 => 'PMT7781 4G',
+    8 => 'PMT3147 3G',
+    9 => 'PMT3161 3G',
+    10 => 'PMT3131 3G',
+    11 => 'PMT3408 4G',
+    12 => 'PMT3401 3G',
+    13 => 'PMT3508 4G',
+    14 => 'PMT3118 3GE',
+    15 => 'PMT3101 4G',
+    16 => 'PMT3637 4G',
+    17 => 'PMT4311 3G RU',
+    18 => 'PMT4231 4G D RU',
+    19 => 'PMT3848 4G',
+    20 => 'PMT4227 3G RU',
+    21 => 'PMT5791 4G',
+    22 => 'PMT7788 4G',
+    23 => 'PMT4111 3G',
+    24 => 'PMT4238 4G RU',
+    25 => 'PMT3201 4G',
+    26 => 'PMT3101 4GH',
+    27 => 'PMT5771 4G',
+    28 => 'PMT3518 4GE',
+    29 => 'PMT3208 3G',
+    30 => 'PMT4327 3G RU',
+    31 => 'PMT3861 4G',
+    32 => 'PMT1157 4G RU',
+    33 => 'PMT4667 3G RU',
+    34 => 'PMT3618 4GE',
+    35 => 'PMT3761 3G',
+    36 => 'PMT4638 3G RU',
+    37 => 'PMT3157 3G',
+    38 => 'PMT3171 3G',
+    39 => 'PMT3758 3G',
+    40 => 'PMT4118 3G EEA',
+    41 => 'PMT3318 3GE',
+    42 => 'PMT3771 3G',
+    43 => 'PMT5778 4G',
+    44 => 'PMT3708 3G',
+    45 => 'PMT3418 4G',
+    46 => 'PMT3151 3G',
+    47 => 'PMT4791 4G RU',
+    48 => 'PMT3301 4G',
+    49 => 'PMT3777 3GE',
   ),
   '@PN' => 
   array (
@@ -5579,11 +7437,40 @@ DeviceModels::$ANDROID_INDEX = array (
     82 => 'Positivo X400',
     83 => 'Positivo X800',
     84 => 'POCOPHONE F1',
+    85 => 'Power Plus 5000',
+    86 => 'Power Plus 3',
+    87 => 'Power Rage Evo',
+    88 => 'PowerFiveMax2',
+    89 => 'PowerFivePro',
+    90 => 'Power Ice Max',
+    91 => 'Power Ice Evo',
+    92 => 'Power Five Evo',
+    93 => 'PowerFiveMaxLite',
+    94 => 'Power 2',
+    95 => 'Power 2 Pro',
+    96 => 'Power 5',
+    97 => 'Power',
+    98 => 'Power 3S',
+    99 => 'Power 3',
+    100 => 'Power 6',
+    101 => 'Power 5S',
+    102 => 'Power 3L',
+    103 => 'POCO F1',
+    104 => 'POCO X2',
+    105 => 'POCO F2 Pro',
+    106 => 'POCO X3 NFC',
+    107 => 'POCO M3',
+    108 => 'POCO X3',
+    109 => 'POCO X3 Pro',
+    110 => 'POCO F3',
+    111 => 'Poco X3',
   ),
   '@PP' => 
   array (
     0 => 'PP4MT-7',
     1 => 'PP4MT-9',
+    2 => 'PPA-LX2',
+    3 => 'PPA-LX1',
   ),
   '@PR' => 
   array (
@@ -5743,12 +7630,67 @@ DeviceModels::$ANDROID_INDEX = array (
     153 => 'prada',
     154 => 'Prism',
     155 => 'Prism II',
+    156 => 'PRO 7 Plus',
+    157 => 'PRO 7',
+    158 => 'PRO 7-H',
+    159 => 'PRO 7-S',
+    160 => 'Pride',
+    161 => 'Pro P300 4G',
+    162 => 'Pro P310 4G',
+    163 => 'Prime 18x9',
   ),
   '@PS' => 
   array (
     0 => 'PSPT350',
     1 => 'PSP[0-9]{4,4}!!',
     2 => 'PS47',
+    3 => 'PSP3515DUO RU',
+    4 => 'PSP5506DUO',
+    5 => 'PSP5545DUO',
+    6 => 'PSP7501DUO',
+    7 => 'PSP7512DUO',
+    8 => 'PSP5518DUO',
+    9 => 'PSP7511DUO',
+    10 => 'PSP3471DUO',
+    11 => 'PSP3495DUO',
+    12 => 'PSP7572DUO',
+    13 => 'PSP3510DUO',
+    14 => 'PSP5530DUO',
+    15 => 'PSP3507DUO',
+    16 => 'PSP3532DUO',
+    17 => 'PSP7530DUO',
+    18 => 'PSP3406DUO',
+    19 => 'PSP3458DUO',
+    20 => 'PSP5502DUO',
+    21 => 'PSP3528DUO',
+    22 => 'PSP7546DUO',
+    23 => 'PSP3513DUO RU',
+    24 => 'PSP7551DUO',
+    25 => 'PSP7610DUO',
+    26 => 'PSP5522DUO',
+    27 => 'PSP3514DUO RU',
+    28 => 'PSP5524DUO',
+    29 => 'PSP5515DUO',
+    30 => 'PSP5551DUO',
+    31 => 'PSP3512DUO',
+    32 => 'PSP5511DUO',
+    33 => 'PSP7570DUO',
+    34 => 'PSP3527DUO',
+    35 => 'PSP7510DUO',
+    36 => 'PSP3514DUO',
+    37 => 'PSP3515DUO',
+    38 => 'PSP3517DUO',
+    39 => 'PSP3534DUO RU',
+    40 => 'PSP3511DUO',
+    41 => 'PSP3552DUO',
+    42 => 'PSP5553DUO',
+    43 => 'PSP7546DUO RU',
+    44 => 'PSP3533DUO',
+    45 => 'PSP7610DUO RU',
+    46 => 'PSP5520DUO',
+    47 => 'PSP3470DUO',
+    48 => 'PSP7550DUO',
+    49 => 'PSP5552DUO',
   ),
   '@PT' => 
   array (
@@ -5766,6 +7708,9 @@ DeviceModels::$ANDROID_INDEX = array (
     7 => 'PULP 4G',
     8 => 'Pulse',
     9 => 'Pulse Mini',
+    10 => 'Pure F',
+    11 => 'Pure 2',
+    12 => 'Pure 3',
   ),
   '@PY' => 
   array (
@@ -5784,9 +7729,17 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => '(BB )?Q10$!',
   ),
+  '@Q3' => 
+  array (
+    0 => 'Q301',
+  ),
   '@Q5' => 
   array (
     0 => '(BB )?Q5$!',
+  ),
+  '@Q8' => 
+  array (
+    0 => 'Q8S6IN4G',
   ),
   '@QI' => 
   array (
@@ -5823,6 +7776,7 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'QTAQZ3',
     2 => 'QTAQZ3KID',
     3 => 'QTAIR7',
+    4 => 'QT19101',
   ),
   '@QU' => 
   array (
@@ -5854,21 +7808,29 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => 'R1 HD',
     1 => 'R1001',
     2 => 'R1011',
+    3 => 'R19',
+    4 => 'R110',
+    5 => 'R15 PRO',
+    6 => 'R17',
   ),
   '@R2' => 
   array (
     0 => 'R2001',
     1 => 'R2010',
     2 => 'R2017',
+    3 => 'R2 LTE',
   ),
   '@R3' => 
   array (
     0 => 'R30GT',
+    1 => 'R3',
+    2 => 'R30 pro',
   ),
   '@R6' => 
   array (
     0 => 'R6006',
     1 => 'R6007',
+    2 => 'R6',
   ),
   '@R7' => 
   array (
@@ -5976,6 +7938,7 @@ DeviceModels::$ANDROID_INDEX = array (
     37 => 'RAINBOW 4G',
     38 => 'RAINBOW JAM',
     39 => '(ZTE )?Racer!!',
+    40 => 'Razar',
   ),
   '@RB' => 
   array (
@@ -6016,6 +7979,29 @@ DeviceModels::$ANDROID_INDEX = array (
     7 => '(Xiaomi )?(Redmi|RedRice|HM)!!',
     8 => '(Xiaomi )?(Redmi|HM)[ \\-]?Note!!',
     9 => 'REVVLPLUS C3701A',
+    10 => 'RE1',
+    11 => 'Realme 5 Pro',
+    12 => 'Regal TAB 10.1',
+    13 => 'Redmi Note 8 Pro',
+    14 => 'Redmi Note 8T',
+    15 => 'Redmi Note 6 Pro',
+    16 => 'Redmi 6',
+    17 => 'Redmi 8A',
+    18 => 'Redmi Note 9S',
+    19 => 'Redmi K20',
+    20 => 'Redmi Note 9 Pro',
+    21 => 'Redmi Note 9',
+    22 => 'Redmi 9',
+    23 => 'Redmi K30',
+    24 => 'Redmi 9A',
+    25 => 'Redmi 8A Dual',
+    26 => 'Redmi 9C NFC',
+    27 => 'Redmi K30 5G',
+    28 => 'Redmi Note 7S',
+    29 => 'Redmi 9C',
+    30 => 'Redmi Y3',
+    31 => 'Redmi 9T',
+    32 => 'Redmi Note 9T',
   ),
   '@RH' => 
   array (
@@ -6034,6 +8020,7 @@ DeviceModels::$ANDROID_INDEX = array (
     8 => 'RIDGE',
     9 => 'RIDGE 4G',
     10 => 'RIDGE FAB 4G',
+    11 => 'RioPlay',
   ),
   '@RK' => 
   array (
@@ -6075,10 +8062,51 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'RM-1061',
     3 => '(Ritmix )?RM[DP]-?[0-9]{3,3}!!',
     4 => 'RMD-[0-9]{2,3}G!!',
+    5 => 'RMX1911',
+    6 => 'RMX1921',
+    7 => 'RMX1927',
+    8 => 'RMX1941',
+    9 => 'RMX1971',
+    10 => 'RMX1851',
+    11 => 'RMX1821',
+    12 => 'RMX1991',
+    13 => 'RMX1931',
+    14 => 'RMX1901',
+    15 => 'RMX2001',
+    16 => 'RMX2020',
+    17 => 'RMX1993',
+    18 => 'RMX2063',
+    19 => 'RMX2061',
+    20 => 'RMX2030',
+    21 => 'RMX2040',
+    22 => 'RMX2021',
+    23 => 'RMX1811',
+    24 => 'RMX2185',
+    25 => 'RMX2025',
+    26 => 'RMX2086',
+    27 => 'RMX2180',
+    28 => 'RMX2002',
+    29 => 'RMX2155',
+    30 => 'RMX2170',
+    31 => 'RMX2151',
+    32 => 'RMX2103',
+    33 => 'RMX2117',
+    34 => 'RMX2111',
+    35 => 'RMX3201',
+    36 => 'RMX1925',
+    37 => 'RMX2144',
+    38 => 'RMX3081',
+    39 => 'RMX3031',
+    40 => 'RMX3085',
+    41 => 'RMX3231',
+    42 => 'RMX2202',
+    43 => 'RMX3063',
+    44 => 'RMX3242',
   ),
   '@RN' => 
   array (
     0 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
+    1 => 'RNE',
   ),
   '@RO' => 
   array (
@@ -6089,6 +8117,10 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'Roar A50',
     5 => 'Roar V25',
     6 => 'rolex',
+    7 => 'Rover',
+    8 => 'Rombica Smart Box 4K V001',
+    9 => 'Roverpad',
+    10 => 'ROME X',
   ),
   '@RP' => 
   array (
@@ -6097,10 +8129,16 @@ DeviceModels::$ANDROID_INDEX = array (
   '@RS' => 
   array (
     0 => 'RS988',
+    1 => 'RS8502',
+    2 => 'RS500',
   ),
   '@RT' => 
   array (
     0 => 'RTC-700A',
+  ),
+  '@RV' => 
+  array (
+    0 => 'RVL-AL09',
   ),
   '@RW' => 
   array (
@@ -6119,12 +8157,31 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => '(GIO-)?(GiONEE[- ])?S101!',
     1 => '(Lenovo )?S1[- ]37AH0!',
     2 => 'S1005KTAB',
+    3 => 'S119',
+    4 => 'S108',
+    5 => 'S169',
+    6 => 'S16',
+    7 => 'S17',
+    8 => 'S116',
+    9 => 'S11',
+    10 => 'S10',
+    11 => 'S1',
+    12 => 'S10 Pro',
+    13 => 'S10 PRO',
+    14 => 'S12',
   ),
   '@S2' => 
   array (
     0 => 'S222',
     1 => '(Lenovo )?S2[- ]38A(H0|T0)!',
     2 => 'S2',
+    3 => 'S290',
+    4 => 'S270i',
+    5 => 'S20+',
+    6 => 'S20 Ultra',
+    7 => 'S20 Plus',
+    8 => 'S2 LITE',
+    9 => 'S2 PRO',
   ),
   '@S3' => 
   array (
@@ -6132,6 +8189,11 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'S30',
     2 => 'S308',
     3 => 'S3',
+    4 => 'S31',
+    5 => 'S380',
+    6 => 'S30mini',
+    7 => 'S397',
+    8 => 'S3 Pro',
   ),
   '@S4' => 
   array (
@@ -6139,6 +8201,10 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'S4503Q',
     2 => 'S4505M',
     3 => 'S4',
+    4 => 'S40Lite',
+    5 => 'S40Pro',
+    6 => 'S470',
+    7 => 'S41',
   ),
   '@S5' => 
   array (
@@ -6149,11 +8215,28 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'S5',
     5 => 'S5 Mini!',
     6 => 'S51SE',
+    7 => 'S550 Pro',
+    8 => 'S55 Lite',
+    9 => 'S58Pro',
+    10 => 'S5021',
+    11 => 'S5140',
+    12 => 'S5 Silk',
+    13 => 'S5710',
+    14 => 'S5 Pro',
+    15 => 'S5001',
+    16 => 'S50 Pro',
+    17 => 'S5230',
   ),
   '@S6' => 
   array (
     0 => 'S658t',
     1 => 'S6 Edge+!',
+    2 => 'S60',
+    3 => 'S61',
+    4 => 'S60 Lite',
+    5 => 'S60Lite',
+    6 => 'S68Pro',
+    7 => 'S6',
   ),
   '@S7' => 
   array (
@@ -6162,6 +8245,9 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'S720i',
     3 => 'S7',
     4 => 's732',
+    5 => 'S70Lite',
+    6 => 'S70',
+    7 => 'S770',
   ),
   '@S8' => 
   array (
@@ -6169,6 +8255,23 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'S88 DISCOVERY',
     2 => 'S850',
     3 => 'S880',
+    4 => 'S8',
+    5 => 'S88Pro',
+    6 => 'S80',
+    7 => 'S8s',
+    8 => 'S8a',
+    9 => 'S8 Pro',
+  ),
+  '@S9' => 
+  array (
+    0 => 'S95Pro',
+    1 => 'S90',
+    2 => 'S90Pro',
+    3 => 'S99',
+    4 => 'S9',
+    5 => 'S9 Plus',
+    6 => 'S9 Pro',
+    7 => 's9863a1h10 Natv',
   ),
   '@SA' => 
   array (
@@ -6194,6 +8297,14 @@ DeviceModels::$ANDROID_INDEX = array (
     19 => 'San Francisco',
     20 => 'San Francisco for',
     21 => 'San Francisco II',
+    22 => 'SANTIN halove',
+    23 => 'SANTIN Armor Pro VT5000',
+    24 => 'SANTIN #Candy U7',
+    25 => 'SANTIN #Armor',
+    26 => 'SANTIN #Marconi',
+    27 => 'SANTIN V9',
+    28 => 'Santin N1',
+    29 => 'SANTIN K1',
   ),
   '@SB' => 
   array (
@@ -6237,12 +8348,25 @@ DeviceModels::$ANDROID_INDEX = array (
     7 => '(SENCOR )?ELEMENT!!',
     8 => 'SENSEIT R390',
     9 => 'SENWA S970',
+    10 => 'SENIOR',
+    11 => 'SEA-AL10',
+    12 => 'SENSEIT E400',
+    13 => 'SENSEIT T300',
+    14 => 'SENSEIT E500',
+    15 => 'SENSEIT R450',
+    16 => 'SENSEIT T250',
+    17 => 'SENSEIT C155',
+    18 => 'SENSEIT R500',
+    19 => 'Senkatel T1009',
+    20 => 'SENSEIT E510',
+    21 => 'Senseit J2',
   ),
   '@SF' => 
   array (
     0 => 'SFR-G8800',
     1 => 'SFR-G8800 TV',
     2 => 'SFR StarTab',
+    3 => 'SF1',
   ),
   '@SG' => 
   array (
@@ -6283,6 +8407,15 @@ DeviceModels::$ANDROID_INDEX = array (
     26 => '(SHP-)?(SHARP )?SH[0-9]{2,3}!!',
     27 => 'SH[FLTV][0-9]{2,2}!!',
     28 => 'SHARP-ADS1',
+    29 => 'Shoot 2',
+    30 => 'Shoot 1',
+    31 => 'SHT-AL09',
+    32 => 'Shark 5000',
+    33 => 'SH-Z01',
+    34 => 'SH-A01',
+    35 => 'SH-C02',
+    36 => 'SHARK KLE-H0',
+    37 => 'SHARK MBU-H0',
   ),
   '@SI' => 
   array (
@@ -6290,6 +8423,7 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'simvalley SP-142',
     2 => 'Signature Touch',
     3 => 'Signature Touch L',
+    4 => 'sigma8',
   ),
   '@SK' => 
   array (
@@ -6300,6 +8434,9 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'SK17(a|i|iv|i-o)!',
     5 => 'SK-Mtek GT7305',
     6 => '(ZTE )?Skate!!',
+    7 => 'SKW-H0',
+    8 => 'SKR-H0',
+    9 => 'SKR-A0',
   ),
   '@SL' => 
   array (
@@ -6358,6 +8495,71 @@ DeviceModels::$ANDROID_INDEX = array (
     43 => 'SMART Start',
     44 => 'SMART Surf2 4G',
     45 => 'SmartTab!!',
+    46 => 'SMART Race2 4G',
+    47 => 'SMART Race 4G',
+    48 => 'SMART Start 3',
+    49 => 'SM6250',
+    50 => 'SM-M307FN',
+    51 => 'SM-A207F',
+    52 => 'SM-A715F',
+    53 => 'SM-N770F',
+    54 => 'SM-T295',
+    55 => 'SM-M315F',
+    56 => 'SM-N971N',
+    57 => 'SM-M215F',
+    58 => 'SM-A315F',
+    59 => 'SM-P615',
+    60 => 'SM-A415F',
+    61 => 'SM-A217F',
+    62 => 'SM-A2070',
+    63 => 'SM-A315N',
+    64 => 'SM-M115F',
+    65 => 'SM-A908B',
+    66 => 'SM-N980F',
+    67 => 'SM-A715W',
+    68 => 'SM-A908N',
+    69 => 'SM-N985F',
+    70 => 'SM-M515F',
+    71 => 'SM-M317F',
+    72 => 'SM-T975',
+    73 => 'SM-A315G',
+    74 => 'SM-T875',
+    75 => 'SM-G780F',
+    76 => 'SM-A217M',
+    77 => 'SM-T505',
+    78 => 'SM-A207M',
+    79 => 'SM-A125F',
+    80 => 'SM-T500',
+    81 => 'SM-G7810',
+    82 => 'SM-A426B',
+    83 => 'SM-A025F',
+    84 => 'SM-G991B',
+    85 => 'SM-G996B',
+    86 => 'SM-G998B',
+    87 => 'SM-A022G',
+    88 => 'SM-F415F',
+    89 => 'SM-A125N',
+    90 => 'SM-A325F',
+    91 => 'SM-G398FN',
+    92 => 'SM-A725F',
+    93 => 'SM-A525F',
+    94 => 'SM-M3070',
+    95 => 'SM-A326B',
+    96 => 'SM-G991N',
+    97 => 'SM-G998N',
+    98 => 'SM-T507',
+    99 => 'SM-M015G',
+    100 => 'SM-A526B',
+    101 => 'SM-M127F',
+    102 => 'SM-A025G',
+    103 => 'SM-G780G',
+    104 => 'SM-M015F',
+    105 => 'SM-A013F',
+    106 => 'SM-A60',
+    107 => 'SM-965F',
+    108 => 'Smart Starwind',
+    109 => 'SmartPRO',
+    110 => 'Smart LINE',
   ),
   '@SN' => 
   array (
@@ -6389,6 +8591,9 @@ DeviceModels::$ANDROID_INDEX = array (
     17 => 'SonyEricssonST15',
     18 => 'Soshphone 4G',
     19 => 'soft stone',
+    20 => 'SOYES XS',
+    21 => 'SO-52A',
+    22 => 'SONY G3412',
   ),
   '@SP' => 
   array (
@@ -6423,6 +8628,27 @@ DeviceModels::$ANDROID_INDEX = array (
     28 => 'Spro2',
     29 => 'SP-A20i',
     30 => 'SpringBoard',
+    31 => 'SP9830I',
+    32 => 'SPN-AL00',
+    33 => 'SP511',
+    34 => 'SP541',
+    35 => 'SP554',
+    36 => 'SP517',
+    37 => 'SP571',
+    38 => 'SP542',
+    39 => 'SP493',
+    40 => 'SP58',
+    41 => 'SP402',
+    42 => 'SP52',
+    43 => 'SP514',
+    44 => 'SP494',
+    45 => 'SP401',
+    46 => 'Space Phone 5G',
+    47 => 'sp9832e 1h10 gofu',
+  ),
+  '@SQ' => 
+  array (
+    0 => 'sQuad 9.72 3G',
   ),
   '@SR' => 
   array (
@@ -6503,6 +8729,12 @@ DeviceModels::$ANDROID_INDEX = array (
     70 => 'ST-PAD2',
     71 => 'STAIRWAY',
     72 => 'StarTrail TT',
+    73 => 'Studio Mega LTE',
+    74 => 'STK-L21',
+    75 => 'STK-AL00',
+    76 => 'Storm',
+    77 => 'Start3G',
+    78 => 'Star',
   ),
   '@SU' => 
   array (
@@ -6516,6 +8748,7 @@ DeviceModels::$ANDROID_INDEX = array (
     7 => 'SUBLIM',
     8 => 'SUNSET',
     9 => 'SUNSET2',
+    10 => 'Sunny2 Plus',
   ),
   '@SV' => 
   array (
@@ -6528,6 +8761,7 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'Swift Plus',
     2 => 'Swift 2 Plus',
     3 => 'Swift 2 X',
+    4 => 'Swift 2',
   ),
   '@SX' => 
   array (
@@ -6594,6 +8828,9 @@ DeviceModels::$ANDROID_INDEX = array (
     19 => 'T00P',
     20 => 'T00G',
     21 => 'T00Q',
+    22 => 'T07',
+    23 => 'T08',
+    24 => 'T06',
   ),
   '@T1' => 
   array (
@@ -6603,6 +8840,14 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'T1K Plus',
     4 => 'T1 7.0',
     5 => 'T11AD!',
+    6 => 'T10M',
+    7 => 'T155',
+    8 => 'T104B 3G',
+    9 => 'T102MS 3G',
+    10 => 'T10(E3C6',
+    11 => 'T10(E3C5',
+    12 => 'T11',
+    13 => 'T1',
   ),
   '@T2' => 
   array (
@@ -6614,6 +8859,17 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'T30',
     2 => 'T3696',
     3 => 'T301',
+    4 => 'T3 Pro',
+  ),
+  '@T4' => 
+  array (
+    0 => 'T47 09',
+  ),
+  '@T5' => 
+  array (
+    0 => 'T5 Lite',
+    1 => 'T5',
+    2 => 'T5c',
   ),
   '@T6' => 
   array (
@@ -6624,10 +8880,16 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => '(OPPO-?)?T703!',
     1 => 'T720 SE',
     2 => 'T760 from moage.com',
+    3 => 'T701',
+    4 => 'T780H',
+    5 => 'T770H',
+    6 => 'T766H EEA',
   ),
   '@T8' => 
   array (
     0 => 'T8[0-9]{3,3}!!',
+    1 => 'T8s',
+    2 => 'T8',
   ),
   '@T9' => 
   array (
@@ -6637,6 +8899,7 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'T9[0-9]{3,3}!!',
     4 => 'T959',
     5 => 'T98 4G??(C6R2)',
+    6 => 'T95N-2G',
   ),
   '@TA' => 
   array (
@@ -6723,6 +8986,8 @@ DeviceModels::$ANDROID_INDEX = array (
     80 => 'TAB466EUK',
     81 => 'TAB467',
     82 => 'TAB462',
+    83 => 'Tab8',
+    84 => 'Tab 3G 7-2',
   ),
   '@TB' => 
   array (
@@ -6738,6 +9003,7 @@ DeviceModels::$ANDROID_INDEX = array (
     9 => 'TBDG874',
     10 => 'TBDG1073',
     11 => 'TBQC1063',
+    12 => 'TbooK 10 S(E6N1',
   ),
   '@TC' => 
   array (
@@ -6800,6 +9066,53 @@ DeviceModels::$ANDROID_INDEX = array (
     28 => 'teXet X-maxi qHD',
     29 => 'TeamDRH ICS for GTablet',
     30 => 'Telenor!!',
+    31 => 'TEL-AN00',
+    32 => 'TECNO KF6n',
+    33 => 'TECNO CG7n',
+    34 => 'TECNO KA9',
+    35 => 'TECNO LA7',
+    36 => 'TECNO CC6',
+    37 => 'TECNO F4 Pro',
+    38 => 'TECNO RA8',
+    39 => 'TECNO CB7',
+    40 => 'TECNO CC7',
+    41 => 'TECNO KB8',
+    42 => 'TECNO KC6',
+    43 => 'TECNO CF7',
+    44 => 'TECNO CA7',
+    45 => 'TECNO F2LTE',
+    46 => 'TECNO KC2',
+    47 => 'TECNO LC6a',
+    48 => 'TECNO KC8',
+    49 => 'TECNO B1f',
+    50 => 'TECNO CA6',
+    51 => 'TECNO KB2j',
+    52 => 'TECNO CA8',
+    53 => 'TECNO B1',
+    54 => 'TECNO B1p',
+    55 => 'TECNO BB4k',
+    56 => 'TECNO CD6',
+    57 => 'TECNO CD7',
+    58 => 'TECNO KD6',
+    59 => 'TECNO LC7',
+    60 => 'TECNO BC2',
+    61 => 'TECNO KD7',
+    62 => 'TECNO CD8',
+    63 => 'TECNO BB2',
+    64 => 'TECNO KD7h',
+    65 => 'TECNO KE5j',
+    66 => 'TECNO KE5',
+    67 => 'TECNO KE7',
+    68 => 'TECNO LA7 Pro',
+    69 => 'TECNO LD7',
+    70 => 'TECNO BC2c',
+    71 => 'Tele2 Midi',
+    72 => 'Tele2 Midi 2 0',
+    73 => 'Tele2 Mini',
+    74 => 'Tele2 Midi 1.1',
+    75 => 'Tele2 Maxi',
+    76 => 'Tele2 Maxi Plus',
+    77 => 'Texet TM-5081',
   ),
   '@TF' => 
   array (
@@ -6825,6 +9138,8 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'ThinkPad( Tablet)?!',
     5 => '(CJ-)?ThL!!',
     6 => 'THRiVE',
+    7 => 'Thor Plus',
+    8 => 'Thor E',
   ),
   '@TI' => 
   array (
@@ -6836,10 +9151,19 @@ DeviceModels::$ANDROID_INDEX = array (
     5 => 'TI320-DU TV',
     6 => 'TizzBird!!',
     7 => 'tiffany',
+    8 => 'Titan T3',
+    9 => 'Titan T5',
+    10 => 'Titan T1',
+    11 => 'Tiger',
+  ),
+  '@TK' => 
+  array (
+    0 => 'tk6757 66 n1',
   ),
   '@TL' => 
   array (
     0 => 'TLINK[0-9]{3,3}!!',
+    1 => 'TLA002',
   ),
   '@TM' => 
   array (
@@ -6894,6 +9218,21 @@ DeviceModels::$ANDROID_INDEX = array (
     48 => 'TM-9767',
     49 => 'TM-1058',
     50 => 'tmn!!',
+    51 => 'TM800A550L',
+    52 => 'TM-4510',
+    53 => 'TM-5071',
+    54 => 'TM-5083',
+    55 => 'TM-5075',
+    56 => 'TM-1067',
+    57 => 'TM-5076',
+    58 => 'TM-5074',
+    59 => 'TM-5703',
+    60 => 'TM-5505',
+    61 => 'TM-5702',
+    62 => 'TM-5077',
+    63 => 'TM-5201',
+    64 => 'TM-5571',
+    65 => 'TM-5084',
   ),
   '@TN' => 
   array (
@@ -6923,11 +9262,14 @@ DeviceModels::$ANDROID_INDEX = array (
     19 => 'Tostab03',
     20 => 'TOSHIBA WT7-C',
     21 => 'TOSHIBA WT8-A',
+    22 => 'Tornado',
   ),
   '@TP' => 
   array (
     0 => 'TPA60W',
     1 => 'TPC-7151',
+    2 => 'TPM171E',
+    3 => 'TP601A',
   ),
   '@TQ' => 
   array (
@@ -6973,6 +9315,7 @@ DeviceModels::$ANDROID_INDEX = array (
   '@TT' => 
   array (
     0 => 'TT101',
+    1 => 'TTK Box 213',
   ),
   '@TU' => 
   array (
@@ -6983,11 +9326,17 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'Turbo-X Tablet Spice III',
     5 => 'Turkcell!!',
     6 => 'Turk Telekom TT175',
+    7 => 'TurboX5Black',
+    8 => 'TurboX5Space',
+    9 => 'TurboX Ray',
+    10 => 'Turbopad1015NEW',
+    11 => 'Turbokids-TMNT',
   ),
   '@TV' => 
   array (
     0 => 'TVE9603I',
     1 => 'TVPAD Slim K3409',
+    2 => 'TV358DVB',
   ),
   '@TX' => 
   array (
@@ -6995,25 +9344,86 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'TX201LAF',
     2 => 'TX85',
     3 => 'TX18',
+    4 => 'TX3 Max',
+    5 => 'TX6 Mini',
+  ),
+  '@TZ' => 
+  array (
+    0 => 'TZ878',
+    1 => 'TZ720',
+    2 => 'TZ969',
+    3 => 'TZ104',
+    4 => 'TZ851',
+    5 => 'TZ161',
+    6 => 'TZ179',
+    7 => 'TZ53',
+    8 => 'TZ197',
+    9 => 'TZ21',
+    10 => 'TZ773',
+    11 => 'TZ08',
+    12 => 'TZ721',
+    13 => 'TZ967',
+    14 => 'TZ195',
+    15 => 'TZ963',
+    16 => 'TZ892',
+    17 => 'TZ170',
+    18 => 'TZ742',
+    19 => 'TZ186',
+    20 => 'TZ711',
+    21 => 'TZ968',
+    22 => 'TZ960',
+    23 => 'TZ737',
+    24 => 'TZ772',
+    25 => 'TZ716',
+    26 => 'TZ185',
+    27 => 'TZ792',
+    28 => 'TZ858',
+    29 => 'TZ192',
+  ),
+  '@U ' => 
+  array (
+    0 => 'U Pro',
+    1 => 'U FEEL PRIME',
   ),
   '@U1' => 
   array (
     0 => '(CUBE ?)?(K8|U1|U2|U3|U5|U6|U8|U9)[0-9]?GT!!',
     1 => 'U1',
     2 => 'U1203',
+    3 => 'U11 Plus',
+    4 => 'U10',
+    5 => 'U15S',
+    6 => 'U15 Pro',
+    7 => 'U16 Max',
+    8 => 'U18',
+    9 => 'U17',
   ),
   '@U2' => 
   array (
     0 => '(CUBE ?)?(K8|U1|U2|U3|U5|U6|U8|U9)[0-9]?GT!!',
     1 => 'U20(a|i|iv)!',
+    2 => 'U20',
+    3 => 'U20 Plus',
+    4 => 'U2',
+    5 => 'U22',
+    6 => 'U25 Pro',
+    7 => 'U23',
   ),
   '@U3' => 
   array (
     0 => '(CUBE ?)?(K8|U1|U2|U3|U5|U6|U8|U9)[0-9]?GT!!',
+    1 => 'U3 4G',
+    2 => 'U3H',
+    3 => 'U300',
+  ),
+  '@U4' => 
+  array (
+    0 => 'U4',
   ),
   '@U5' => 
   array (
     0 => '(CUBE ?)?(K8|U1|U2|U3|U5|U6|U8|U9)[0-9]?GT!!',
+    1 => 'U5',
   ),
   '@U6' => 
   array (
@@ -7032,6 +9442,8 @@ DeviceModels::$ANDROID_INDEX = array (
     8 => 'U708',
     9 => 'U7011',
     10 => 'U7015',
+    11 => 'U7 Plus',
+    12 => 'U7 Max',
   ),
   '@U8' => 
   array (
@@ -7047,6 +9459,7 @@ DeviceModels::$ANDROID_INDEX = array (
   '@UG' => 
   array (
     0 => 'ugglite',
+    1 => 'Ugoos-AM3',
   ),
   '@UL' => 
   array (
@@ -7069,11 +9482,19 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => 'Ultym 5',
     17 => 'Ultym 5L',
     18 => 'Ultym 5.2',
+    19 => 'Ulefone S11',
+    20 => 'Ulefone S7',
+    21 => 'Ulefone S1',
+    22 => 'Ulefone Note 7',
+    23 => 'Ulefone Armor 5',
+    24 => 'Ulefone X',
+    25 => 'Ulefone S1 Pro',
   ),
   '@UM' => 
   array (
     0 => 'UM840',
     1 => 'UMI!!',
+    2 => 'UMIDIGI X',
   ),
   '@UN' => 
   array (
@@ -7081,6 +9502,7 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'UNO X8',
     2 => 'UNO X10',
     3 => 'Unusual!!',
+    4 => 'UNIWA X5',
   ),
   '@UO' => 
   array (
@@ -7089,6 +9511,10 @@ DeviceModels::$ANDROID_INDEX = array (
   '@UR' => 
   array (
     0 => 'URBANO PROGRESSO',
+    1 => 'Ursus A179i',
+    2 => 'Ursus A270',
+    3 => 'Ursus Z380',
+    4 => 'Ursus A210',
   ),
   '@US' => 
   array (
@@ -7134,6 +9560,13 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => '(GIO-)?(GiONEE[- ])?V188!',
     17 => 'V1',
     18 => 'V1277',
+    19 => 'V1928A',
+    20 => 'V1911A',
+    21 => 'V1936A',
+    22 => 'V1921A',
+    23 => 'V1941A',
+    24 => 'V1986A',
+    25 => 'V1901A',
   ),
   '@V2' => 
   array (
@@ -7144,15 +9577,26 @@ DeviceModels::$ANDROID_INDEX = array (
     4 => 'V2 Viper S',
     5 => 'V2 Viper X',
     6 => 'V2 Viper X plus',
+    7 => 'V2 Pro',
+    8 => 'V2027',
+    9 => 'V2023',
+    10 => 'V2025',
+    11 => 'V2026',
+    12 => 'V2036',
+    13 => 'V2012A',
+    14 => 'V2061',
   ),
   '@V3' => 
   array (
     0 => 'v360 E1',
+    1 => 'V3',
   ),
   '@V5' => 
   array (
     0 => 'V5U-simvalley SP-142',
     1 => 'V55',
+    2 => 'V540 Level',
+    3 => 'V551 Aura',
   ),
   '@V7' => 
   array (
@@ -7214,6 +9658,7 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => 'V9e+',
     17 => 'V9A',
     18 => 'V9C',
+    19 => 'V90',
   ),
   '@VA' => 
   array (
@@ -7223,6 +9668,11 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'Vandroid T3i',
     4 => 'Vandroid T',
     5 => 'VAP430',
+    6 => 'VA210',
+  ),
+  '@VC' => 
+  array (
+    0 => 'VCE-L22',
   ),
   '@VE' => 
   array (
@@ -7245,6 +9695,10 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => 'Venus_V3 5040',
     17 => 'Venus V3 5570',
     18 => 'Venus V3 5580',
+    19 => 'Vermax UHDX',
+    20 => 'vernee M5',
+    21 => 'Venus V6',
+    22 => 'Vestel 5000 2gb',
   ),
   '@VF' => 
   array (
@@ -7351,6 +9805,48 @@ DeviceModels::$ANDROID_INDEX = array (
     69 => 'Viettel V8502',
     70 => 'VIETTEL V8506',
     71 => 'VIETTEL V8509',
+    72 => 'Vivo 8',
+    73 => 'Vivo XI+',
+    74 => 'VIA A3',
+    75 => 'VIA P2',
+    76 => 'VIA S',
+    77 => 'VIA F2',
+    78 => 'VIA G3',
+    79 => 'Vi8+',
+    80 => 'View Max',
+    81 => 'Vision',
+    82 => 'vivo 1811',
+    83 => 'vivo 1904',
+    84 => 'vivo 1820',
+    85 => 'vivo 1804',
+    86 => 'vivo 1808',
+    87 => 'vivo 1902',
+    88 => 'vivo 1915',
+    89 => 'vivo 1906',
+    90 => 'vivo 1907',
+    91 => 'vivo 1901',
+    92 => 'vivo 1726',
+    93 => 'vivo 1815',
+    94 => 'vivo 1920',
+    95 => 'vivo 1814',
+    96 => 'vivo 1807',
+    97 => 'vivo 1806',
+    98 => 'vivo 1723',
+    99 => 'vivo 1818',
+    100 => 'vivo 1816',
+    101 => 'vivo 1727',
+    102 => 'vivo 1819',
+    103 => 'vivo 1719',
+    104 => 'vivo 1805',
+    105 => 'vivo 1823',
+    106 => 'vivo 1801',
+    107 => 'vivo 1938',
+    108 => 'vivo 2015',
+    109 => 'vivo 2006',
+    110 => 'vivo 1910',
+    111 => 'vivo 2004',
+    112 => 'View2 Go',
+    113 => 'vivo 1912',
   ),
   '@VK' => 
   array (
@@ -7359,6 +9855,7 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'VK700',
     3 => 'VK810 4G',
     4 => 'VK815',
+    5 => 'VK7000',
   ),
   '@VL' => 
   array (
@@ -7369,6 +9866,7 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => 'VMware Virtual Platform',
     1 => '(AC|BC|LC|MT|RC|QS|VM|TS|OC)[0-9]{4,4}[A-Z]!!',
     2 => 'VM670',
+    3 => 'Vmobile XS Pro',
   ),
   '@VN' => 
   array (
@@ -7400,6 +9898,20 @@ DeviceModels::$ANDROID_INDEX = array (
     21 => 'VOYO A15',
     22 => 'voyo X6',
     23 => 'Vodafone!!',
+    24 => 'VOX S513 4G VS5035ML',
+    25 => 'VOX S502 3G VS5003MG',
+    26 => 'Vox V40 3G VT4055MG',
+    27 => 'VOX Flash 4G VS5015ML',
+    28 => 'VOX S502 4G VS5013ML',
+    29 => 'VOX S509 3G VS5032PG',
+    30 => 'VOX S501 3G VS5002PG',
+    31 => 'VOX G501 4G VS5033ML',
+    32 => 'VOX E502 4G VS5036PL',
+    33 => 'VOX G450 3G VS4001PG',
+    34 => 'VOX FIRE 4G VS5037PL',
+    35 => 'VOX S505 3G VS5017MG',
+    36 => 'Volt',
+    37 => 'VONTAR Z5',
   ),
   '@VS' => 
   array (
@@ -7424,6 +9936,9 @@ DeviceModels::$ANDROID_INDEX = array (
     18 => 'Vsun i5',
     19 => 'Vsun i9',
     20 => 'Vsun V9',
+    21 => 'VS500',
+    22 => 'VS996',
+    23 => 'VS988',
   ),
   '@VT' => 
   array (
@@ -7446,6 +9961,15 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'VX580A',
     2 => 'VX580W',
     3 => 'VX610A',
+  ),
+  '@W ' => 
+  array (
+    0 => 'W K400',
+  ),
+  '@W-' => 
+  array (
+    0 => 'W-V720-EEA',
+    1 => 'W-V830-EEA',
   ),
   '@W1' => 
   array (
@@ -7481,6 +10005,7 @@ DeviceModels::$ANDROID_INDEX = array (
   '@W5' => 
   array (
     0 => 'W5510',
+    1 => 'w5',
   ),
   '@W6' => 
   array (
@@ -7495,6 +10020,7 @@ DeviceModels::$ANDROID_INDEX = array (
     8 => 'W6',
     9 => 'W6HD ICS',
     10 => 'W6HD ICS FULL',
+    11 => 'W627',
   ),
   '@W7' => 
   array (
@@ -7607,6 +10133,10 @@ DeviceModels::$ANDROID_INDEX = array (
     13 => 'Wileyfox Storm',
     14 => 'Wileyfox Swift',
     15 => 'Wink City S',
+    16 => 'Wizard 2',
+    17 => 'WinPRO',
+    18 => 'Wieppo S8',
+    19 => 'Wileyfox Swift 2 Plus',
   ),
   '@WL' => 
   array (
@@ -7622,6 +10152,17 @@ DeviceModels::$ANDROID_INDEX = array (
   '@WO' => 
   array (
     0 => 'Woxter!!',
+  ),
+  '@WP' => 
+  array (
+    0 => 'WP5',
+    1 => 'WP1',
+    2 => 'WP5000',
+    3 => 'WP5 Pro',
+    4 => 'WP6',
+    5 => 'WP2',
+    6 => 'WP8 Pro',
+    7 => 'WP7',
   ),
   '@WS' => 
   array (
@@ -7641,6 +10182,13 @@ DeviceModels::$ANDROID_INDEX = array (
     5 => 'WX05SH',
     6 => 'Wxt Tab PC 65CXi',
   ),
+  '@X ' => 
+  array (
+    0 => 'X style Tab A83',
+    1 => 'X Style Tab A82',
+    2 => 'X Style Tab A104',
+    3 => 'X Style Tab A103',
+  ),
   '@X-' => 
   array (
     0 => '(Explay|X-tremer|ActiveD|Informer|Surfer)!!',
@@ -7652,6 +10200,15 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'X-basic2',
     7 => 'X-maxi',
     8 => 'X-medium',
+    9 => 'X-treme PQ24',
+    10 => 'X-treme PQ54 MAX',
+    11 => 'X-TREME PQ52',
+    12 => 'X-TREME PQ39',
+    13 => 'X-treme PQ28',
+    14 => 'X-TREME PQ37',
+    15 => 'X-treme PQ29',
+    16 => 'X-treme PQ53',
+    17 => 'X-Force(TM-5009',
   ),
   '@X0' => 
   array (
@@ -7683,6 +10240,21 @@ DeviceModels::$ANDROID_INDEX = array (
     25 => 'X003',
     26 => 'X005',
     27 => 'X008',
+    28 => 'X00ID',
+    29 => 'X018D',
+    30 => 'X00TD',
+    31 => 'X00PD',
+    32 => 'X01BDA',
+    33 => 'X00QD',
+    34 => 'X01AD',
+    35 => 'X00LD',
+    36 => 'X00LDA',
+    37 => 'X00KD',
+    38 => 'X00RD',
+    39 => 'X00TDA',
+    40 => 'X017DA',
+    41 => 'X018DC',
+    42 => 'X00TDB',
   ),
   '@X1' => 
   array (
@@ -7714,6 +10286,15 @@ DeviceModels::$ANDROID_INDEX = array (
     25 => 'X16HD 3G(M5J5)',
     26 => 'X16HD 3G(M5J5',
     27 => 'X16HD 3G(M5J6)',
+    28 => 'X19',
+    29 => 'X19 S',
+    30 => 'X18',
+    31 => 'X100',
+    32 => 'X11',
+    33 => 'X1S',
+    34 => 'X12',
+    35 => 'X16 Plus(D3A5',
+    36 => 'X111',
   ),
   '@X2' => 
   array (
@@ -7728,6 +10309,10 @@ DeviceModels::$ANDROID_INDEX = array (
     8 => 'X2 Soul Style Plus',
     9 => 'X2 Soul Xtreme',
     10 => 'X2 Twin',
+    11 => 'X23',
+    12 => 'X20',
+    13 => 'X2',
+    14 => 'X20 PRO',
   ),
   '@X3' => 
   array (
@@ -7740,10 +10325,13 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'X3 Soul Style',
     7 => 'X325a',
     8 => 'X3-Ice MIUI XT720 Memorila Classics',
+    9 => 'X30',
+    10 => 'X3Plus-Google',
   ),
   '@X4' => 
   array (
     0 => 'X403',
+    1 => 'X4 Soul Infinity S',
   ),
   '@X5' => 
   array (
@@ -7756,6 +10344,25 @@ DeviceModels::$ANDROID_INDEX = array (
     6 => 'X506',
     7 => 'X506S',
     8 => 'X507Q',
+    9 => 'X5 Soul Style',
+    10 => 'X5S',
+    11 => 'X5max PRO',
+    12 => 'X50',
+    13 => 'X5max',
+    14 => 'X55',
+    15 => 'X5',
+    16 => 'X53',
+    17 => 'X526',
+    18 => 'X522',
+    19 => 'X52X',
+    20 => 'X5pro',
+  ),
+  '@X6' => 
+  array (
+    0 => 'X60L',
+    1 => 'X6pro',
+    2 => 'X6',
+    3 => 'x600',
   ),
   '@X7' => 
   array (
@@ -7769,6 +10376,8 @@ DeviceModels::$ANDROID_INDEX = array (
     7 => 'X70 R(C7F9)',
     8 => 'X70 R(C8F9)',
     9 => 'X708S',
+    10 => 'X70',
+    11 => 'X7pro',
   ),
   '@X8' => 
   array (
@@ -7803,6 +10412,7 @@ DeviceModels::$ANDROID_INDEX = array (
     28 => 'X89 (E7ED)',
     29 => 'X89 (KR89)',
     30 => 'X89HD (H21C)',
+    31 => 'X88King',
   ),
   '@X9' => 
   array (
@@ -7872,6 +10482,18 @@ DeviceModels::$ANDROID_INDEX = array (
     63 => 'X98 Pro (K9C6)',
     64 => 'X98 Pro (K9C6',
     65 => 'X9180',
+    66 => 'x96',
+    67 => 'X90',
+    68 => 'X9pro',
+    69 => 'X9 Mini',
+    70 => 'X90L',
+    71 => 'X95',
+    72 => 'X96Air P3',
+    73 => 'X96mini',
+    74 => 'X96Max',
+    75 => 'X98 Air 3G(C5J6',
+    76 => 'X96Max V311',
+    77 => 'X96H PRO',
   ),
   '@XA' => 
   array (
@@ -7912,6 +10534,9 @@ DeviceModels::$ANDROID_INDEX = array (
     20 => 'Xenta TAB10-211',
     21 => 'Xenta TAB10-201',
     22 => 'Xenta TAB13-201',
+    23 => 'Xenium S266',
+    24 => 'Xenium S566',
+    25 => 'Xenit708',
   ),
   '@XI' => 
   array (
@@ -7935,6 +10560,15 @@ DeviceModels::$ANDROID_INDEX = array (
     17 => '(Xiaomi|Xiaomi Mi|MI) Pad!!',
     18 => '(Xiaomi|Xiaomi Mi|MI)Box!!',
     19 => '(Xiaomi|Xiaomi Mi|MI)TV!!',
+    20 => 'XIAOMI Mi 9 SE',
+    21 => 'XIAOMI Redmi Note 6 Pro',
+    22 => 'XIAOMI M2004J19C',
+    23 => 'XIAOMI Redmi Note 9 Pro',
+    24 => 'XIAOMI Redmi Note 8T',
+    25 => 'XIAOMI POCOPHONE F1',
+    26 => 'XIAOMI M2007J20CG',
+    27 => 'XIAOMI Redmi Note 8 Pro',
+    28 => 'Xiaomi Mi 9% Pro',
   ),
   '@XL' => 
   array (
@@ -7957,6 +10591,7 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => 'Xlife-Electro55HD',
     17 => 'Xlife-Ezy',
     18 => 'Xlife-Victor4',
+    19 => 'XL150',
   ),
   '@XM' => 
   array (
@@ -7990,6 +10625,18 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'Xperia!!',
     3 => '(Symphony|Xplorer)!!',
     4 => 'xPAD-70',
+    5 => 'XP9800',
+  ),
+  '@XQ' => 
+  array (
+    0 => 'XQ-AU52',
+    1 => 'XQ-AD52',
+    2 => 'XQ-AS52',
+    3 => 'XQ-AT51',
+  ),
+  '@XR' => 
+  array (
+    0 => 'XRover C',
   ),
   '@XT' => 
   array (
@@ -8023,10 +10670,20 @@ DeviceModels::$ANDROID_INDEX = array (
     27 => 'Xtreamer Mobile Aiki5s',
     28 => 'Xtreamer Joyz',
     29 => 'Xtreamer Wonder',
+    30 => 'XT1799-2',
   ),
   '@XW' => 
   array (
     0 => 'XW-I8',
+  ),
+  '@XY' => 
+  array (
+    0 => 'XYZ-101',
+  ),
+  '@Y1' => 
+  array (
+    0 => 'Y10G001S4M EEA',
+    1 => 'Y14',
   ),
   '@Y2' => 
   array (
@@ -8040,10 +10697,28 @@ DeviceModels::$ANDROID_INDEX = array (
   array (
     0 => 'Y6 Max',
     1 => 'Y6 Piano',
+    2 => 'Y6',
+    3 => 'Y6C',
+  ),
+  '@Y7' => 
+  array (
+    0 => 'Y7',
+  ),
+  '@Y8' => 
+  array (
+    0 => 'Y8',
+    1 => 'Y8 Plus',
+    2 => 'Y8C',
+  ),
+  '@Y9' => 
+  array (
+    0 => 'Y9Plus',
   ),
   '@YA' => 
   array (
     0 => '(HW-|HUAWEI |HONOR )?(ATH|BLN|BKL|BKK|BND|CHE|CHM|COL|DUA|DUK|DLI|EDI|FRD|HLK|HN3|H30|H60|HOL|JMM|JSN|LRA|KIW|LLD|NEM|NMO|OXF|PE|PCT|PLK|RNE|SCL|TNY|KNT|CAM|STF|HDN|YAL)!!',
+    1 => 'YAL-AL50',
+    2 => 'YAL',
   ),
   '@YD' => 
   array (
@@ -8057,10 +10732,15 @@ DeviceModels::$ANDROID_INDEX = array (
     0 => 'Yellowstone',
     1 => '(Andy|Yezz)!!',
   ),
+  '@YN' => 
+  array (
+    0 => 'YNDX-000SB',
+  ),
   '@YO' => 
   array (
     0 => 'youwave custom',
     1 => 'YOGA Tablet!!',
+    2 => 'Young Y56',
   ),
   '@YP' => 
   array (
@@ -8153,6 +10833,7 @@ DeviceModels::$ANDROID_INDEX = array (
     46 => 'YUSUN--W 800',
     47 => 'YUSUN W808',
     48 => 'YUSUN -- W 900',
+    49 => 'YU FLY F9',
   ),
   '@YX' => 
   array (
@@ -8223,6 +10904,8 @@ DeviceModels::$ANDROID_INDEX = array (
     58 => 'Z01KDA',
     59 => 'Z01MDA',
     60 => 'Z00YD',
+    61 => 'Z01RD',
+    62 => 'Z01QD',
   ),
   '@Z1' => 
   array (
@@ -8230,12 +10913,23 @@ DeviceModels::$ANDROID_INDEX = array (
     1 => 'Z1-H39LW',
     2 => '(HUAWEI )?(ALP|BLA|CRR|EVR|HMA|LIO|LON|LYA|MATE|MHA|MT1|MT2|MT7|M200|NXT|SNE|TAS|Z100)!!',
     3 => 'Z1i',
+    4 => 'Z101 Prime',
+    5 => 'Z101',
+    6 => 'Z155',
+    7 => 'Z15',
+    8 => 'Z1',
+    9 => 'Z11',
   ),
   '@Z2' => 
   array (
     0 => 'Z2 Plus',
     1 => 'Z2 Rio',
     2 => 'Z282 C91',
+    3 => 'Z250',
+    4 => 'Z255',
+    5 => 'Z2121',
+    6 => 'Z2',
+    7 => 'Z20',
   ),
   '@Z3' => 
   array (
@@ -8244,6 +10938,9 @@ DeviceModels::$ANDROID_INDEX = array (
     2 => 'Z30Dart',
     3 => 'Z30Lite',
     4 => 'Z30PACE',
+    5 => 'Z3455',
+    6 => 'Z355',
+    7 => 'Z33',
   ),
   '@Z4' => 
   array (
@@ -8266,6 +10963,7 @@ DeviceModels::$ANDROID_INDEX = array (
     16 => 'Z45Q Star',
     17 => 'Z45Q Star+',
     18 => 'Z4 mini',
+    19 => 'Z455',
   ),
   '@Z5' => 
   array (
@@ -8286,12 +10984,25 @@ DeviceModels::$ANDROID_INDEX = array (
     14 => 'Z52 Thunder',
     15 => 'Z52 Thunder+',
   ),
+  '@Z6' => 
+  array (
+    0 => 'Z6',
+  ),
   '@Z7' => 
   array (
     0 => 'Z71',
     1 => 'Z710',
     2 => 'Z710e',
     3 => 'Z715e',
+    4 => 'Z7',
+  ),
+  '@Z8' => 
+  array (
+    0 => 'Z8',
+  ),
+  '@Z9' => 
+  array (
+    0 => 'Z9',
   ),
   '@ZA' => 
   array (
@@ -8316,6 +11027,7 @@ DeviceModels::$ANDROID_INDEX = array (
     18 => 'ZA977',
     19 => 'ZA985',
     20 => 'ZA987',
+    21 => 'ZA550KL',
   ),
   '@ZB' => 
   array (
@@ -8325,12 +11037,24 @@ DeviceModels::$ANDROID_INDEX = array (
     3 => 'ZB501KL',
     4 => 'ZBOX-ID18',
     5 => 'ZBOX-ID81',
+    6 => 'ZB633KL',
+    7 => 'ZB602KL',
+    8 => 'ZB631KL',
+    9 => 'ZB555KL',
+    10 => 'ZB553KL',
   ),
   '@ZC' => 
   array (
     0 => 'ZC551KL',
     1 => 'ZC553KL',
     2 => 'ZC554KL',
+    3 => 'ZC520KL',
+    4 => 'ZC600KL',
+  ),
+  '@ZD' => 
+  array (
+    0 => 'ZD553KL',
+    1 => 'ZD552KL',
   ),
   '@ZE' => 
   array (
@@ -8356,6 +11080,12 @@ DeviceModels::$ANDROID_INDEX = array (
     19 => 'ZEN U4',
     20 => 'ZEN U5',
     21 => 'ZEN 303 3G',
+    22 => 'ZE620KL',
+    23 => 'ZenFone Max Pro M1',
+  ),
+  '@ZH' => 
+  array (
+    0 => 'ZH960',
   ),
   '@ZI' => 
   array (
@@ -8374,6 +11104,10 @@ DeviceModels::$ANDROID_INDEX = array (
     12 => 'Ziss Ranger HD',
     13 => 'Zilo',
   ),
+  '@ZL' => 
+  array (
+    0 => 'ZL10',
+  ),
   '@ZO' => 
   array (
     0 => 'Zoom',
@@ -8382,6 +11116,15 @@ DeviceModels::$ANDROID_INDEX = array (
   '@ZP' => 
   array (
     0 => '(Zopo )?ZP ?[0-9]{3,3}!!',
+  ),
+  '@ZS' => 
+  array (
+    0 => 'ZS600KL',
+    1 => 'ZS620KL',
+    2 => 'ZS660KL',
+    3 => 'ZS550KL',
+    4 => 'ZS661KS',
+    5 => 'ZS630KL',
   ),
   '@ZT' => 
   array (
@@ -8503,6 +11246,42 @@ DeviceModels::$ANDROID_INDEX = array (
     115 => 'ZTE B860A',
     116 => 'ZTE B860AV1',
     117 => 'ZTE W1010',
+    118 => 'ZTE 2050RU',
+    119 => 'ZTE Blade A5 2020RU',
+    120 => 'ZTE Blade A5 2019RU',
+    121 => 'ZTE BLADE A0622',
+    122 => 'ZTE Blade A7 2019',
+    123 => 'ZTE Blade A7 2020RU',
+    124 => 'ZTE BLADE A530',
+    125 => 'ZTE BLADE A330',
+    126 => 'ZTE Blade A5 2019',
+    127 => 'ZTE Z10',
+    128 => 'ZTE BLADE A0605',
+    129 => 'ZTE BLADE A520C',
+    130 => 'ZTE A2020G Pro',
+    131 => 'ZTE 2050',
+    132 => 'ZTE Blade A7 2020',
+    133 => 'ZTE Blade A3 2020RU',
+    134 => 'ZTE A2019G Pro',
+    135 => 'ZTE A0622',
+    136 => 'ZTE Blade A5 2020',
+    137 => 'ZTE Blade A522',
+    138 => 'ZTE Blade A3 2019RU',
+    139 => 'ZTE A0616',
+    140 => 'ZTE Blade A3 2020',
+    141 => 'ZTE 8010',
+    142 => 'ZTE A7000',
+    143 => 'ZTE A7020',
+    144 => 'ZTE 9000',
+    145 => 'ZTE Blade A7 2019RU',
+    146 => 'ZTE A7020RU',
+    147 => 'ZTE 8010RU',
+    148 => 'ZTE A2121',
+    149 => 'ZTE V5 PRO',
+    150 => 'ZTE A2020RU Pro',
+    151 => 'ZTE A7030RU',
+    152 => 'ZTE Blade AF3',
+    153 => 'ZTE 9000RU',
   ),
   '@ZU' => 
   array (

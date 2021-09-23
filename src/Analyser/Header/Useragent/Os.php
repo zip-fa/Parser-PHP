@@ -87,6 +87,17 @@ trait Os
                     if ($device) {
                         $this->data->device = $device;
                     }
+
+                    $screenHeight = $this->headers['X-Screen-Height'] ?? null;
+                    $pixelRatio = $this->headers['X-Device-Pixel-Ratio'] ?? null;
+                    $chash = $this->headers['X-Device-Chash'] ?? null;
+                    $ops = $this->headers['X-Device-Ops'] ?? null;
+
+                    if($screenHeight && $pixelRatio && $chash && $ops) {
+                        if($identifiedIphone = Data\IphoneDetector::identify($screenHeight, $pixelRatio, $chash, $ops)) {
+                            $this->data->device = $identifiedIphone;
+                        }
+                    }
                 }
 
                 if (preg_match('/(iPad|iPhone|iPod)1?[0-9],[0-9][0-9]?/u', $ua, $match)) {
@@ -99,7 +110,7 @@ trait Os
             }
         } elseif (preg_match('/Mac OS X/u', $ua) || preg_match('/;os=Mac/u', $ua)) {
             /* OS X */
-            
+
             $this->data->os->name = 'OS X';
 
             if (preg_match('/Mac OS X (1[0-9][0-9\._]*)/u', $ua, $match)) {
@@ -1346,7 +1357,7 @@ trait Os
         if (preg_match('/Symbian/u', $ua)) {
             $this->data->os->family = new Family([ 'name' => 'Symbian' ]);
             $this->data->device->type = Constants\DeviceType::MOBILE;
-            
+
             if (preg_match('/SymbianOS\/([0-9.]*)/u', $ua, $match)) {
                 $this->data->os->family->version = new Version([ 'value' => $match[1] ]);
             }

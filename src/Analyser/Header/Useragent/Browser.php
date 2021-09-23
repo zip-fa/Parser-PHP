@@ -685,7 +685,7 @@ trait Browser
             $this->data->browser->version = new Version([ 'value' => $match[1], 'details' => 2 ]);
             $this->data->browser->type = Constants\BrowserType::BROWSER;
         }
-      
+
         if (preg_match('/OPRGX\/([0-9.]*)$/u', $ua, $match)) {
             $this->data->browser->stock = false;
             $this->data->browser->name = 'Opera GX';
