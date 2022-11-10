@@ -344,8 +344,8 @@
     result: { browser: { name: 'Yandex Browser', family: { name: Chrome, version: 85 }, version: '20.9', type: browser }, engine: { name: Blink }, os: { name: Android, version: 6.0.1 }, device: { type: mobile, subtype: smart, manufacturer: ZTE, model: 'Nubia Z11 Mini S' } }
 -
     headers: 'User-Agent: Mozilla/5.0 (Linux; U; Android 9; th; vivo 1915) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Tenta/3.1.6 Build/2162 Safari/537.36'
-    readable: 'Tenta Browser 3.1.6 on a vivo 1915 running Android 9'
-    result: { browser: { name: 'Tenta Browser', family: { name: Chrome, version: 64 }, version: 3.1.6, type: browser }, engine: { name: Blink }, os: { name: Android, version: '9' }, device: { type: mobile, subtype: smart, model: 'vivo 1915' } }
+    readable: 'Tenta Browser 3.1.6 on a Vivo Y19 running Android 9'
+    result: { browser: { name: 'Tenta Browser', family: { name: Chrome, version: 64 }, version: 3.1.6, type: browser }, engine: { name: Blink }, os: { name: Android, version: '9' }, device: { type: mobile, subtype: smart, manufacturer: Vivo, model: Y19 } }
 -
     headers: 'User-Agent: Mozilla/5.0 (Linux; Android 11; moto g(60)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.79 Mobile Safari/537.36'
     readable: 'Chrome 100 on a Motorola Moto G60 running Android 11'
