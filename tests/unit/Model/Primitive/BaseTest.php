@@ -43,6 +43,6 @@ class BaseTest extends TestCase
             'using'     => new Using([ 'name' => 'Generic' ])
         ]);
 
-        $this->assertEquals('name: "Generic", hidden: true, count: 10, version: new Version({ value: "1.0", hidden: false }), family: new Family({ name: "Generic" }), using: new Using({ name: "Generic" })', $base->toJavaScript());
+        $this->assertEquals('name: "Generic", hidden: true, count: 10, version: new Version({ hidden: false, value: "1.0" }), family: new Family({ name: "Generic" }), using: new Using({ name: "Generic" })', $base->toJavaScript());
     }
 }

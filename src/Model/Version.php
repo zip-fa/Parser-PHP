@@ -25,7 +25,6 @@ class Version extends Base
     public $builds;
 
 
-
     /**
      * Determine if the version is lower, equal or higher than the specified value
      *

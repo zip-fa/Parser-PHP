@@ -313,10 +313,10 @@ class MainTest extends TestCase
     {
         $main = new Main();
         $expected = <<<'EOD'
-this.browser = new Browser({ stock: true, hidden: false, mode: "", type: "" });
+this.browser = new Browser({ type: "", hidden: false, stock: true, mode: "" });
 this.engine = new Engine({  });
 this.os = new Os({ hidden: false });
-this.device = new Device({ type: "", subtype: "", identified: 0, generic: true, hidden: false });
+this.device = new Device({ type: "", hidden: false, subtype: "", identified: 0, generic: true });
 this.camouflage = false;
 this.features = [];
 

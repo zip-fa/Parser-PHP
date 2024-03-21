@@ -8,6 +8,18 @@ namespace WhichBrowser\Model\Primitive;
 
 class Base
 {
+    public $type;
+
+    public $name;
+
+    public $hidden;
+
+    public $count;
+
+    public $version;
+    public $family;
+    public $using;
+
     /**
      * Set the properties of the object the the values specified in the array
      *
