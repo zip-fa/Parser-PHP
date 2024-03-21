@@ -6,6 +6,13 @@ class Useragent
 {
     use Useragent\Os, Useragent\Device, Useragent\Browser, Useragent\Application, Useragent\Using, Useragent\Engine, Useragent\Bot;
 
+    /**
+     * @var mixed
+     */
+    protected $headers;
+    protected $data;
+    protected $options;
+
     public function __construct($header, $headers, &$data, &$options)
     {
         $this->headers = $headers;
