@@ -17,6 +17,9 @@ class Os extends NameVersion
     /** @var boolean */
     public $hidden = false;
 
+    /** @var string */
+    public $build = '';
+
 
     /**
      * Set the properties to the default values
